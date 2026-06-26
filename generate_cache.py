@@ -23,7 +23,7 @@ def generate_cache():
     for i, bill in enumerate(bills, start=1):
         print(f"Processing bill {i}/{len(bills)}: {bill.get('title', '')[:50]}")
         official_summary = get_summary_text(bill)
-        latest_action = bill.get("latestAction", {}).get("text", "")
+        latest_action = (bill.get("latestAction") or {}).get("text", "")
         summary = summarize_bill(bill.get("title", ""), official_summary, latest_action)
 
         if summary:
