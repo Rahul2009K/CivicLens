@@ -11,7 +11,7 @@ from fetch_bills import fetch_recent_bills, get_summary_text
 from summarize_bill import summarize_bill
 
 CACHE_FILE = "bills_cache.json"
-NUMBER_OF_BILLS = 10
+NUMBER_OF_BILLS = 50
 
 
 def generate_cache():

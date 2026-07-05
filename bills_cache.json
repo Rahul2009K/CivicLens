@@ -2,163 +2,814 @@
   {
     "id": "119-HRES-27",
     "original_title": "Expressing opposition to Central Business District Tolling Program of New York City.",
-    "plain_title": "Congress Opposes New York City's Toll for Driving into Manhattan",
-    "plain_summary": "This resolution is Congress officially saying they disagree with New York City's plan to charge drivers a fee (called congestion pricing) to enter the busiest part of Manhattan. The goal of NYC's program is to reduce traffic and pollution by making it more expensive to drive downtown. Congress is pushing for the program to be paused and studied more before it moves forward.",
+    "plain_title": "Congress Opposes New York City's Toll Fee for Downtown Manhattan",
+    "plain_summary": "This resolution is Congress officially saying it disagrees with New York City's plan to charge drivers a fee to enter the busiest part of Manhattan. The program, called congestion pricing, would make drivers pay a toll to reduce traffic in that area. Congress is asking New York City and federal agencies to stop the program and study how it would hurt the economy first.",
     "key_provisions": [
-      "Officially opposes New York City's congestion pricing toll program",
-      "Calls for a study on how the tolls would affect the local economy",
-      "Urges federal agencies and New York to stop putting the program into effect"
+      "Congress officially opposes New York City's congestion pricing toll program",
+      "Calls for an economic impact study before the program moves forward",
+      "Recommends that federal agencies and New York City pause the program"
     ],
-    "who_it_affects": "This bill mainly affects drivers who commute into or travel through lower and midtown Manhattan, as well as New York City businesses and residents who depend on traffic flow in that area.",
+    "who_it_affects": "This bill would affect everyday drivers, commuters, and businesses in and around Manhattan who would otherwise have to pay a new toll fee to drive into the busiest part of New York City.",
     "topics": [
       "Economy",
+      "Other"
+    ],
+    "status_plain_english": "This resolution was recently introduced and has been sent to a House committee for review, but has not been voted on yet."
+  },
+  {
+    "id": "119-HR-6",
+    "original_title": "Reserved for the Speaker.",
+    "plain_title": "A Placeholder Bill Reserved for the Speaker of the House",
+    "plain_summary": "This is a placeholder slot in Congress that the Speaker of the House has set aside, likely to introduce an important bill soon. No actual bill text or details have been filled in yet. Think of it like a saved seat at a table \u2014 something is coming, but we don't know what it is yet.",
+    "key_provisions": [
+      "No provisions available yet",
+      "Bill content has not been released",
+      "Speaker has reserved this slot for future legislation"
+    ],
+    "who_it_affects": "No one can be identified as affected yet because the bill has no content \u2014 once the Speaker fills in the details, we will know who it impacts.",
+    "topics": [
+      "Other"
+    ],
+    "status_plain_english": "This bill is just a placeholder and has no content or actions yet \u2014 the Speaker of the House is saving this spot to introduce a bill later."
+  },
+  {
+    "id": "119-HR-9",
+    "original_title": "Reserved for the Speaker.",
+    "plain_title": "A Placeholder Bill Reserved for the House Speaker",
+    "plain_summary": "This is a placeholder slot in Congress that the Speaker of the House has set aside for future use. It does not yet contain any actual legislation or policy proposals. Think of it like a saved seat \u2014 the Speaker is holding this spot to introduce a bill later.",
+    "key_provisions": [
+      "No provisions exist yet",
+      "Content to be determined by the Speaker",
+      "Placeholder for future legislation"
+    ],
+    "who_it_affects": "No one is affected yet, as this bill has no content \u2014 it is simply a reserved slot for the Speaker to fill with a real proposal later.",
+    "topics": [
+      "Other"
+    ],
+    "status_plain_english": "This bill has no content or actions yet \u2014 it is just a placeholder being held by the Speaker of the House for future use."
+  },
+  {
+    "id": "119-HR-11",
+    "original_title": "Reserved for the Minority Leader.",
+    "plain_title": "A Bill Held for the Minority Party Leader to Name",
+    "plain_summary": "This is a placeholder bill that has been reserved for the Minority Leader of Congress to use when they are ready to introduce legislation. It does not yet have any specific content or purpose. Think of it like a saved spot in line \u2014 the details will be filled in later.",
+    "key_provisions": [
+      "No provisions defined yet",
+      "Content to be determined by Minority Leader",
+      "Placeholder status only"
+    ],
+    "who_it_affects": "No one is affected yet, as this bill has no content \u2014 it is simply a reserved slot for future legislation.",
+    "topics": [
+      "Other"
+    ],
+    "status_plain_english": "This bill is just a placeholder and has not been introduced, debated, or voted on yet."
+  },
+  {
+    "id": "119-HR-13",
+    "original_title": "Reserved for the Minority Leader.",
+    "plain_title": "A Placeholder Bill Reserved for the Minority Leader",
+    "plain_summary": "This is a placeholder slot in Congress reserved for the minority leader, which is the top member of the political party that has fewer seats in that chamber. No actual bill has been written or introduced here yet. Think of it like a saved seat at a lunch table \u2014 the spot is held, but no one is sitting there yet.",
+    "key_provisions": [
+      "No provisions written yet",
+      "Bill content has not been introduced",
+      "Reserved as a placeholder for future legislation"
+    ],
+    "who_it_affects": "No one is affected yet because this is just a reserved slot with no actual bill or policy attached to it.",
+    "topics": [
+      "Other"
+    ],
+    "status_plain_english": "This is not a real bill yet \u2014 it is simply a placeholder reserved for the minority leader to use when they are ready to introduce legislation."
+  },
+  {
+    "id": "119-HR-16",
+    "original_title": "Reserved for the Minority Leader.",
+    "plain_title": "A Placeholder Bill Saved for the Minority Leader",
+    "plain_summary": "This is a reserved bill slot that has been set aside for the Minority Leader of Congress to use when they are ready to introduce a bill. Right now, there is no actual law or policy proposal attached to it. Think of it like a saved seat \u2014 the spot exists, but no one is sitting in it yet.",
+    "key_provisions": [
+      "No specific provisions have been written yet",
+      "Bill content is pending the Minority Leader's proposal",
+      "Slot is reserved as a procedural placeholder"
+    ],
+    "who_it_affects": "No one is affected yet because this bill has no content \u2014 it is simply a reserved space in the legislative process.",
+    "topics": [
+      "Other"
+    ],
+    "status_plain_english": "This bill is just a placeholder and has not been introduced, written, or voted on yet."
+  },
+  {
+    "id": "119-HR-19",
+    "original_title": "Reserved for the Minority Leader.",
+    "plain_title": "A Bill Reserved for the Minority Leader to Introduce",
+    "plain_summary": "This is a placeholder bill title that is being held for the Minority Leader of Congress to use when they are ready to introduce a bill. The Minority Leader is the head of whichever political party has fewer members in that chamber of Congress. No actual bill text or topic has been assigned to this slot yet.",
+    "key_provisions": [
+      "No provisions available yet",
+      "Bill content has not been written or released",
+      "Title is being held as a reserved spot"
+    ],
+    "who_it_affects": "No one can be identified as affected yet because the bill has no content, topic, or provisions written into it.",
+    "topics": [
+      "Other"
+    ],
+    "status_plain_english": "This bill is just a reserved placeholder and has no content, no votes, and no actions taken on it yet."
+  },
+  {
+    "id": "119-HJRES-8",
+    "original_title": "Proposing an amendment to the Constitution of the United States to provide certain line item veto authority to the President.",
+    "plain_title": "Giving the President Power to Cut Specific Budget Items",
+    "plain_summary": "This proposal would change the U.S. Constitution to let the President reject or reduce specific spending items in a budget bill, instead of having to accept or reject the entire bill. For example, if Congress passes a budget that includes money for a project the President thinks is wasteful, the President could cut just that part without vetoing everything else. Congress could still override the President's cut if two-thirds of both the House and Senate vote against it.",
+    "key_provisions": [
+      "President can reduce specific spending items in budget bills",
+      "President must notify Congress within 10 days of making a cut",
+      "Two-thirds of both House and Senate can vote to restore the cut spending"
+    ],
+    "who_it_affects": "This would affect all Americans by changing how the government controls spending, giving the President more power to cut specific programs while reducing Congress's full control over the budget.",
+    "topics": [
+      "Economy",
+      "Other"
+    ],
+    "status_plain_english": "This proposal was sent to the House Judiciary Committee to be reviewed, and has not been voted on yet."
+  },
+  {
+    "id": "119-HRES-2",
+    "original_title": "To inform the Senate that a quorum of the House has assembled and of the election of the Speaker and the Clerk.",
+    "plain_title": "House Notifies Senate of New Speaker and Clerk Election",
+    "plain_summary": "This resolution is basically an official announcement from the House of Representatives to the Senate. It lets the Senate know that enough House members showed up to get to work, that Mike Johnson from Louisiana was chosen as the leader of the House (called the Speaker), and that Kevin McCumber was chosen to handle the House's official records and paperwork (called the Clerk). Think of it like the first day of school when a teacher takes attendance and announces who's in charge.",
+    "key_provisions": [
+      "Confirms enough House members were present to officially start working",
+      "Announces Mike Johnson as the elected Speaker of the House",
+      "Announces Kevin McCumber as the elected Clerk of the House"
+    ],
+    "who_it_affects": "This procedural notice mainly affects members of Congress and government operations, as it officially kicks off the 119th Congress and establishes who is in charge of running the House of Representatives.",
+    "topics": [
+      "Other"
+    ],
+    "status_plain_english": "This resolution was quickly approved without any debate or objection, meaning it is fully finalized."
+  },
+  {
+    "id": "119-HRES-3",
+    "original_title": "Authorizing the Speaker to appoint a committee to notify the President of the assembly of the Congress.",
+    "plain_title": "Telling the President That Congress Is Ready to Work",
+    "plain_summary": "This resolution allows the Speaker of the House to form a small committee whose only job is to officially inform the President that enough members of Congress have shown up to start doing business. Think of it like taking attendance and then sending a note to the principal saying class is ready to begin. Both the House and Senate have to confirm they have enough members present before this message gets sent.",
+    "key_provisions": [
+      "Speaker appoints a special committee to carry the message",
+      "Committee notifies the President that Congress has a quorum (enough members present)",
+      "Both the House and Senate participate in sending this notification"
+    ],
+    "who_it_affects": "This resolution mainly affects Congress members and the President, as it is a formal procedural step that signals the government is officially ready to conduct legislative business.",
+    "topics": [
+      "Other"
+    ],
+    "status_plain_english": "This resolution was approved and the matter is officially closed \u2014 no further action will be taken on it."
+  },
+  {
+    "id": "119-HRES-4",
+    "original_title": "Authorizing the Clerk to inform the President of the election of the Speaker and the Clerk.",
+    "plain_title": "Officially Telling the President Who Won House Leadership Roles",
+    "plain_summary": "When the House of Representatives elects new leaders, they are required to officially notify the President of the United States. This resolution formally lets the President know that Mike Johnson was chosen as Speaker of the House and Kevin McCumber was chosen as Clerk for the 119th Congress. Think of it like sending an official announcement letter to the President after an internal vote.",
+    "key_provisions": [
+      "Notifying the President that Mike Johnson was elected Speaker of the House",
+      "Notifying the President that Kevin McCumber was elected Clerk of the House",
+      "Fulfilling the formal requirement to inform the executive branch of House leadership"
+    ],
+    "who_it_affects": "This mainly affects the formal workings of the U.S. government, ensuring the President is officially aware of who is leading the House of Representatives.",
+    "topics": [
+      "Other"
+    ],
+    "status_plain_english": "This resolution was quickly approved by the House without any objections and is now complete."
+  },
+  {
+    "id": "119-HRES-9",
+    "original_title": "Reaffirming that the United States is not a party to the Rome Statute and does not recognize the jurisdiction of the International Criminal Court.",
+    "plain_title": "U.S. Says It Does Not Follow the International Criminal Court",
+    "plain_summary": "This resolution is a formal statement by Congress saying the U.S. does not belong to or follow the rules of the International Criminal Court (ICC), which is a global court that can put world leaders on trial for serious crimes. It also criticizes the ICC for trying to arrest Israeli leaders, saying those arrest warrants are unfair. The resolution shows support for Israel's right to protect its leaders from international legal action.",
+    "key_provisions": [
+      "Reaffirms the U.S. is not a member of the International Criminal Court",
+      "Condemns ICC arrest warrants issued against Israeli Prime Minister Netanyahu and Defense Minister Gallant",
+      "Supports Israel's right to defend itself and its leaders from international legal challenges"
+    ],
+    "who_it_affects": "This resolution mainly affects U.S. foreign policy and Israeli government leaders, signaling that the U.S. will not cooperate with ICC actions targeting its allies like Israel.",
+    "topics": [
+      "Foreign Policy"
+    ],
+    "status_plain_english": "This resolution was sent to the House Committee on Foreign Affairs, where a small group of lawmakers will review it before deciding if it moves forward to a full vote."
+  },
+  {
+    "id": "119-HRES-8",
+    "original_title": "Reaffirming the House of Representatives's commitment to ensuring secure elections throughout the United States by recognizing that the presentation of valid photograph identification is a fundamental component of secure elections.",
+    "plain_title": "Congress Says Photo ID Should Be Required to Vote",
+    "plain_summary": "This resolution is a formal statement from the House of Representatives saying they believe showing a photo ID when you vote is an important part of keeping elections safe and secure. It doesn't create a new law or change any rules \u2014 it's more like an official opinion statement. Think of it like a team putting out a press release saying they support something, without actually doing anything new about it yet.",
+    "key_provisions": [
+      "Reaffirms House commitment to secure elections",
+      "States that photo ID is a key part of election security",
+      "Does not create any new laws or requirements on its own"
+    ],
+    "who_it_affects": "This resolution could affect all eligible voters, particularly those who may not have a government-issued photo ID, such as some elderly, low-income, or minority voters, if future laws are passed based on this position.",
+    "topics": [
+      "Civil Rights",
       "Other"
     ],
     "status_plain_english": "This resolution was sent to a House committee for review and has not been voted on yet."
   },
   {
-    "id": "119-HR-6",
-    "original_title": "Reserved for the Speaker.",
-    "plain_title": "A Bill With No Details or Summary Yet Available",
-    "plain_summary": "This bill has been reserved for the Speaker of the House, meaning a spot has been saved for it but no actual content has been written or released yet. Think of it like a placeholder, similar to saving a seat at lunch before you know who is sitting there. No one outside of leadership knows what this bill will be about yet.",
+    "id": "119-SCONRES-3",
+    "original_title": "A concurrent resolution authorizing the use of the rotunda of the Capitol for the lying in state of the remains of the late James Earl Carter, Jr., 39th President of the United States.",
+    "plain_title": "Allowing Jimmy Carter to Lie in State at the U.S. Capitol",
+    "plain_summary": "This resolution gives permission for former President Jimmy Carter's body to be placed in the U.S. Capitol Rotunda so the public can pay their respects after his death. This tradition, called 'lying in state,' is a special honor reserved for important national figures like presidents. It was scheduled to happen from January 7 to January 9, 2025.",
     "key_provisions": [
-      "No provisions available yet",
-      "Bill content has not been released",
-      "Details are pending future announcement"
+      "Permits use of the Capitol Rotunda for the ceremony",
+      "Sets the dates as January 7\u20139, 2025",
+      "Honors Jimmy Carter as the 39th President of the United States"
     ],
-    "who_it_affects": "It is currently unknown who this bill would affect because no content or summary has been made public yet.",
+    "who_it_affects": "This affects the general public, who would have the opportunity to visit the Capitol and pay their respects to former President Jimmy Carter during the lying in state period.",
     "topics": [
       "Other"
     ],
-    "status_plain_english": "This bill is just a placeholder right now and has not been introduced, debated, or voted on yet."
+    "status_plain_english": "This resolution was fully passed and agreed to by Congress without any objections."
   },
   {
-    "id": "119-HR-9",
-    "original_title": "Reserved for the Speaker.",
-    "plain_title": "A Bill With No Details Available Yet",
-    "plain_summary": "This bill has been reserved by the Speaker of the House, meaning a spot has been saved for it but no actual content has been written or released yet. Think of it like a placeholder in a notebook where someone wrote 'save this page' but hasn't filled it in. There is no information yet about what this bill would do.",
+    "id": "119-HRES-19",
+    "original_title": "Providing the sense of the House of Representatives that the House should not adjourn until the annual appropriation bills within the jurisdiction of all the subcommittees of the Committee on Appropriations for the current fiscal year are enacted into law.",
+    "plain_title": "House Should Stay in Session Until Budget Bills Are Passed",
+    "plain_summary": "This resolution says that members of the House of Representatives should not take a break or go home until they have finished passing all of the government's yearly budget bills. Think of it like a rule that says you can't leave class until your homework is done. It's meant to pressure lawmakers to actually complete the budget on time instead of leaving it unfinished.",
     "key_provisions": [
-      "No provisions available yet",
-      "Content has not been released",
-      "Details pending future announcement"
+      "House members should not adjourn (take a break) until budget bills are passed",
+      "Applies to all annual appropriations bills for the current fiscal year",
+      "Expresses the official opinion of the House of Representatives"
     ],
-    "who_it_affects": "It is currently unknown who this bill would affect because no content or details have been made public yet.",
-    "topics": [
-      "Other"
-    ],
-    "status_plain_english": "This bill is just a placeholder right now and has no content, votes, or any recorded actions yet."
-  },
-  {
-    "id": "119-HR-11",
-    "original_title": "Reserved for the Minority Leader.",
-    "plain_title": "A Bill Held Open for the Minority Leader to Name",
-    "plain_summary": "This is essentially a placeholder bill \u2014 a spot in the legislative lineup that has been set aside for the Minority Leader of Congress to use. The Minority Leader is the head of whichever political party has fewer seats in that chamber. No actual policy or rules have been written into it yet.",
-    "key_provisions": [
-      "No provisions written yet",
-      "Title reserved as a placeholder",
-      "Awaiting content from Minority Leader"
-    ],
-    "who_it_affects": "No one is affected yet since this bill has no content, but whoever the Minority Leader decides to write it for could be impacted once real policy is added.",
-    "topics": [
-      "Other"
-    ],
-    "status_plain_english": "This bill is just a placeholder with no content and no action has been taken on it yet."
-  },
-  {
-    "id": "119-HR-13",
-    "original_title": "Reserved for the Minority Leader.",
-    "plain_title": "A Bill Held Open for the Minority Leader to Name",
-    "plain_summary": "This is essentially a placeholder bill \u2014 a spot being saved in Congress for the Minority Leader (the head of whichever party has fewer members) to introduce a bill later. No actual law or policy has been written into it yet. Think of it like a reserved seat at a table waiting for someone to sit down and order.",
-    "key_provisions": [
-      "No provisions written yet",
-      "Title is reserved for future use",
-      "Minority Leader will determine the content"
-    ],
-    "who_it_affects": "No one is affected yet since the bill has no content, but once filled in, it could affect anyone depending on what the Minority Leader chooses to propose.",
-    "topics": [
-      "Other"
-    ],
-    "status_plain_english": "This bill is just a placeholder and has no content or actions taken on it yet \u2014 it is waiting to be filled in by the Minority Leader."
-  },
-  {
-    "id": "119-HR-16",
-    "original_title": "Reserved for the Minority Leader.",
-    "plain_title": "A Bill Held Open for the Minority Party Leader",
-    "plain_summary": "This is a placeholder bill number that has been officially set aside for the Minority Leader of Congress to use when they are ready to introduce legislation. Think of it like saving a seat \u2014 the spot is reserved but no actual law or proposal has been written yet. Until the Minority Leader fills in the details, there is no specific policy or change being proposed.",
-    "key_provisions": [
-      "Placeholder reserved for future use",
-      "No specific rules or changes proposed yet",
-      "Minority Leader will define the content later"
-    ],
-    "who_it_affects": "No one is affected yet because this bill has no content \u2014 it is simply a reserved slot waiting for a real proposal to be added.",
-    "topics": [
-      "Other"
-    ],
-    "status_plain_english": "This bill is just a reserved number with no actual content or actions taken yet \u2014 it is essentially an empty placeholder."
-  },
-  {
-    "id": "119-HR-19",
-    "original_title": "Reserved for the Minority Leader.",
-    "plain_title": "A Bill Placeholder Saved for the Minority Party Leader",
-    "plain_summary": "This is essentially a reserved spot in the legislative queue set aside for the Minority Leader, who is the head of the party that does not control Congress. No actual bill text or proposal has been written yet. Think of it like a saved seat \u2014 the title exists, but the content hasn't been filled in.",
-    "key_provisions": [
-      "No provisions written yet",
-      "Bill text has not been introduced",
-      "Reserved as a placeholder for future legislation"
-    ],
-    "who_it_affects": "No one is affected yet since this bill has no content, but it is reserved for the Minority Leader to introduce legislation that could affect various groups in the future.",
-    "topics": [
-      "Other"
-    ],
-    "status_plain_english": "This bill is just a placeholder with no content and no actions have been taken on it yet."
-  },
-  {
-    "id": "119-HJRES-8",
-    "original_title": "Proposing an amendment to the Constitution of the United States to provide certain line item veto authority to the President.",
-    "plain_title": "Giving the President Power to Cut Specific Spending Items",
-    "plain_summary": "This proposal would change the Constitution to give the President a special power called a 'line item veto,' which lets them reduce specific spending amounts in a budget bill instead of having to accept or reject the whole thing. For example, if Congress passed a budget with money for a project the President thought was wasteful, they could cut just that part. Congress can override the cut if two-thirds of both the House and Senate vote against it.",
-    "key_provisions": [
-      "President can reduce specific spending amounts in budget bills",
-      "President must notify Congress within 10 days of making a cut",
-      "Congress can reverse the cut with a two-thirds vote in both chambers"
-    ],
-    "who_it_affects": "This would affect all Americans by shifting some budget control from Congress to the President, potentially changing how taxpayer money is spent on government programs.",
+    "who_it_affects": "This bill primarily affects members of Congress, pushing them to stay and do their work, which indirectly affects all Americans who rely on government-funded programs and services.",
     "topics": [
       "Economy",
       "Other"
     ],
-    "status_plain_english": "This proposal was sent to the House Judiciary Committee, where it will be reviewed before any further steps can happen \u2014 most bills that reach committee never make it further."
+    "status_plain_english": "This resolution was sent to the House Appropriations Committee for review and has not been voted on yet."
   },
   {
-    "id": "119-HRES-2",
-    "original_title": "To inform the Senate that a quorum of the House has assembled and of the election of the Speaker and the Clerk.",
-    "plain_title": "House Officially Notifies Senate of Its New Leadership",
-    "plain_summary": "At the start of a new Congress, the House of Representatives sends an official message to the Senate letting them know that enough members have shown up to do business. This particular message also announces who was chosen as the two most important House officials: the Speaker (Mike Johnson) and the Clerk (Kevin McCumber). Think of it like a new school year where the class formally introduces its president and secretary to the rest of the school.",
+    "id": "119-HRES-7",
+    "original_title": "Recognizing the importance of access to comprehensive, high-quality, life-affirming medical care for women of all ages.",
+    "plain_title": "Supporting Better Healthcare Access for Women Across America",
+    "plain_summary": "This resolution is a formal statement from Congress saying that women in the U.S. should have access to good, caring, and complete healthcare. It does not create any new laws or programs on its own, but it puts Congress on record as supporting quality medical care for women. Think of it like a public declaration of values rather than a rule that must be followed.",
     "key_provisions": [
-      "Confirms enough House members are present to officially begin work",
-      "Announces Mike Johnson as the elected Speaker of the House",
-      "Announces Kevin McCumber as the elected Clerk of the House"
+      "Support for women having access to comprehensive healthcare",
+      "Emphasis on care being compassionate and high-quality",
+      "Focus on 'life-affirming' medical treatment for women of all ages"
     ],
-    "who_it_affects": "This resolution mainly affects how Congress operates internally, signaling to the Senate and the public that the House is officially organized and ready to pass laws in the 119th Congress.",
+    "who_it_affects": "This resolution affects women of all ages across the United States by expressing congressional support for their right to access quality and compassionate healthcare.",
+    "topics": [
+      "Healthcare",
+      "Civil Rights"
+    ],
+    "status_plain_english": "This resolution was sent to a House committee for review and has not been voted on yet."
+  },
+  {
+    "id": "119-HJRES-21",
+    "original_title": "Disapproving of the rule submitted by the Department of Homeland Security relating to \"Modernizing H-2 Program Requirements, Oversight, and Worker Protections\".",
+    "plain_title": "Congress Tries to Cancel New Protections for Temporary Foreign Workers",
+    "plain_summary": "This bill would cancel a rule created by the Department of Homeland Security that was meant to give more rights and protections to temporary foreign workers who come to the U.S. on H-2A (farm work) and H-2B (non-farm work) visas. The canceled rule had given these workers things like protection if they reported unsafe conditions, equal treatment regardless of what country they came from, and 60 extra days to stay in the U.S. if they lost their job. By passing this bill, Congress would erase those new protections.",
+    "key_provisions": [
+      "Cancel whistleblower protections for temporary foreign workers",
+      "Remove equal treatment rules based on workers' home countries",
+      "Eliminate the 60-day grace period after losing a job"
+    ],
+    "who_it_affects": "Temporary foreign workers on H-2A and H-2B visas \u2014 such as farm workers and seasonal workers \u2014 would lose recently granted protections and rights if this bill passes.",
+    "topics": [
+      "Immigration"
+    ],
+    "status_plain_english": "This bill has been sent to the House Judiciary Committee, where it will be reviewed before any vote can happen."
+  },
+  {
+    "id": "119-HCONRES-1",
+    "original_title": "Regarding consent to assemble outside the seat of government.",
+    "plain_title": "Allowing Congress to Meet Outside of Washington, D.C.",
+    "plain_summary": "This resolution gives Congress permission to hold its meetings somewhere other than Washington, D.C., if top leaders decide it is necessary. The Speaker of the House and the Senate Majority Leader can agree together to move Congress to a different location. They must first talk it over with the minority leaders from both parties before making that decision.",
+    "key_provisions": [
+      "Congress can meet outside Washington, D.C. during 2025-2026",
+      "The House Speaker and Senate Majority Leader must agree it serves the public interest",
+      "Minority party leaders from both chambers must be consulted first"
+    ],
+    "who_it_affects": "This primarily affects members of Congress and their staff, since it changes where they are allowed to officially meet and conduct government business.",
+    "topics": [
+      "Other"
+    ],
+    "status_plain_english": "This resolution has passed the House and been sent to the Senate, where it still needs to be voted on."
+  },
+  {
+    "id": "119-HRES-1",
+    "original_title": "Electing officers of the House of Representatives.",
+    "plain_title": "Choosing Key Staff Leaders for the U.S. House of Representatives",
+    "plain_summary": "This resolution officially appoints three important staff members who run the behind-the-scenes operations of the U.S. House of Representatives. The Clerk keeps official records, the Sergeant-at-Arms handles security and enforces rules, and the Chief Administrative Officer manages the day-to-day business like payroll and technology. Think of it like a school electing its principal, head of security, and office manager all at once.",
+    "key_provisions": [
+      "Kevin McCumber of Illinois appointed as House Clerk",
+      "William McFarland of Maryland appointed as Sergeant-at-Arms",
+      "Catherine Szpindor of Virginia appointed as Chief Administrative Officer"
+    ],
+    "who_it_affects": "This resolution affects the staff and operations of the U.S. House of Representatives, as these three officials oversee recordkeeping, security, and administrative functions that keep Congress running smoothly.",
+    "topics": [
+      "Other"
+    ],
+    "status_plain_english": "This resolution has been fully approved and is considered final \u2014 no further action is needed."
+  },
+  {
+    "id": "119-SRES-2",
+    "original_title": "A resolution informing the House of Representatives that a quorum of the Senate is assembled.",
+    "plain_title": "Senate Tells the House It Has Enough Members Present",
+    "plain_summary": "This resolution is basically a formal announcement from the Senate to the House of Representatives. It lets the House know that enough senators have shown up (a quorum) for the Senate to officially do its work. Think of it like taking attendance at school and announcing that class can begin.",
+    "key_provisions": [
+      "Senate secretary sends official notice to the House",
+      "Confirms enough senators are present to conduct business",
+      "Signals the Senate is ready to start working on legislation"
+    ],
+    "who_it_affects": "This procedural action mainly affects members of Congress, as it formally allows the Senate and House to coordinate and begin conducting official legislative business together.",
+    "topics": [
+      "Other"
+    ],
+    "status_plain_english": "The Senate passed this procedural notice and sent it over to the House of Representatives to officially inform them."
+  },
+  {
+    "id": "119-SRES-3",
+    "original_title": "A resolution to elect Charles E. Grassley, a Senator from the State of Iowa, to be President pro tempore of the Senate of the United States.",
+    "plain_title": "Choosing a Backup Leader for the U.S. Senate",
+    "plain_summary": "This resolution officially selects Senator Charles Grassley of Iowa to serve as President pro tempore of the Senate. The President pro tempore is the Senate's official backup leader \u2014 they run Senate meetings when the Vice President (who normally leads the Senate) is absent. This is mostly a ceremonial role, but it also places the person third in line to become President of the United States.",
+    "key_provisions": [
+      "Elects Charles Grassley as President pro tempore of the Senate",
+      "Gives Grassley authority to lead Senate sessions in the Vice President's absence",
+      "Places Grassley third in the line of presidential succession"
+    ],
+    "who_it_affects": "This resolution mainly affects the formal leadership structure of the U.S. Senate and has little direct impact on everyday Americans, though it does determine who is third in line to the presidency.",
+    "topics": [
+      "Other"
+    ],
+    "status_plain_english": "This resolution was voted on and approved by every senator present on the same day it was introduced, with no changes made."
+  },
+  {
+    "id": "119-SRES-4",
+    "original_title": "A resolution notifying the President of the United States of the election of a President pro tempore.",
+    "plain_title": "Senate Officially Informs President Who Leads Senate Temporarily",
+    "plain_summary": "When the Vice President (who normally leads the Senate) is unavailable, a Senator is chosen to fill that role temporarily \u2014 this person is called the President pro tempore. This resolution is simply the Senate's official way of letting the President of the United States know that Senator Charles Grassley from Iowa has been chosen for that job. Think of it like sending a formal notification letter to the boss letting them know who's in charge while the usual leader is away.",
+    "key_provisions": [
+      "Officially announces Charles Grassley as President pro tempore of the Senate",
+      "Formally notifies the U.S. President of this leadership selection",
+      "Documents the Senate's choice for its temporary presiding officer"
+    ],
+    "who_it_affects": "This primarily affects the internal operations of the U.S. Senate and Senator Charles Grassley, who now holds a leadership role, but it has little direct impact on everyday Americans.",
+    "topics": [
+      "Other"
+    ],
+    "status_plain_english": "The Senate unanimously agreed to this resolution right away, meaning every Senator present approved it with no debate or changes needed."
+  },
+  {
+    "id": "119-HRES-11",
+    "original_title": "Fair Representation Amendment",
+    "plain_title": "Limit Presidential Power and Restore Congress's Authority Over Laws",
+    "plain_summary": "This resolution tells multiple House committees to look through all the laws they oversee and find places where the President and executive branch have too much freedom to decide how those laws are applied. The goal is to pull that power back to Congress, where elected representatives make the rules. All the suggestions from these committees would then be combined into one big bill called the 'Article One Restoration Act.'",
+    "key_provisions": [
+      "16 House committees must review laws in their areas",
+      "Committees identify where the executive branch has too much unchecked power",
+      "All recommendations get packaged into one new bill for Congress to vote on"
+    ],
+    "who_it_affects": "This bill would primarily affect how the President and federal agencies operate, potentially limiting their ability to make decisions independently and shifting more control back to elected members of Congress.",
+    "topics": [
+      "Other"
+    ],
+    "status_plain_english": "This resolution was sent to the House Committee on Rules, which means it is in early stages and has not been debated or voted on by the full House yet."
+  },
+  {
+    "id": "119-HRES-10",
+    "original_title": "HEALTH Act",
+    "plain_title": "Creating a New House Committee Dedicated Solely to Health Issues",
+    "plain_summary": "This bill would create a brand new official group in the House of Representatives called the Committee on Health, which would be specifically in charge of all health-related laws. Right now, health topics are split between two different committees, but this bill would move all of those responsibilities \u2014 like rules about the FDA, the CDC, and public health \u2014 into one focused committee. Think of it like reorganizing a school so that instead of two teachers each handling part of a subject, one dedicated teacher handles all of it.",
+    "key_provisions": [
+      "Creates a new standing House Committee on Health",
+      "Gives the new committee authority over the FDA, CDC, and public health laws",
+      "Removes health-related duties from two existing committees"
+    ],
+    "who_it_affects": "This bill mainly affects how Congress operates internally, but could eventually impact everyday Americans by changing how health laws and regulations are developed and overseen.",
+    "topics": [
+      "Healthcare"
+    ],
+    "status_plain_english": "This bill has been sent to the House Committee on Rules, which means it is in very early stages and has not been voted on yet."
+  },
+  {
+    "id": "119-SCONRES-2",
+    "original_title": "A concurrent resolution to provide for the counting on January 6, 2025, of the electoral votes for President and Vice President of the United States.",
+    "plain_title": "Setting the Date to Officially Count Presidential Election Votes",
+    "plain_summary": "After a presidential election, Congress must officially count and confirm the electoral votes to declare a winner. This resolution sets January 6, 2025 at 1:00 PM as the official date and time for Congress to do that counting. Think of it like scheduling the final, official announcement of who won the election.",
+    "key_provisions": [
+      "Sets January 6, 2025 at 1:00 PM as the official vote-counting time",
+      "Results must be delivered to the President of the Senate",
+      "The final count must be recorded in the official journals of Congress"
+    ],
+    "who_it_affects": "This affects all Americans because it is part of the formal process that officially confirms who will become the next President and Vice President of the United States.",
+    "topics": [
+      "Other"
+    ],
+    "status_plain_english": "This resolution was fully passed and agreed to by Congress without any objections."
+  },
+  {
+    "id": "119-SRES-15",
+    "original_title": "A resolution electing Gary B. Myrick, of Virginia, as Secretary for the Minority of the Senate.",
+    "plain_title": "Senate Picks Gary Myrick as Secretary for the Minority",
+    "plain_summary": "This resolution officially appoints Gary B. Myrick from Virginia to a staff leadership role in the U.S. Senate. The Secretary for the Minority is a senior administrative official who helps the minority party (whichever party has fewer Senate seats) run its day-to-day operations. Think of it like electing a head office manager for one side of the Senate.",
+    "key_provisions": [
+      "Officially elects Gary B. Myrick to the position",
+      "Fills the role of Secretary for the Minority of the Senate",
+      "Applies to the Senate's minority party operations"
+    ],
+    "who_it_affects": "This primarily affects Gary B. Myrick, who gets a new job, and the minority party senators who will rely on his administrative support.",
+    "topics": [
+      "Other"
+    ],
+    "status_plain_english": "This resolution was passed immediately and unanimously by the Senate with no changes needed \u2014 all senators agreed to it on the spot."
+  },
+  {
+    "id": "119-SRES-13",
+    "original_title": "A resolution notifying the House of Representatives of the election of a Sergeant at Arms and Doorkeeper of the Senate.",
+    "plain_title": "Senate Officially Announces Its New Security Chief to the House",
+    "plain_summary": "The Senate chose Jennifer A. Hemingway as its new Sergeant at Arms and Doorkeeper, which is basically the Senate's top security and operations officer. This resolution is just the Senate's formal way of letting the House of Representatives know about this appointment. Think of it like sending an official memo to a coworker in another department to keep them in the loop.",
+    "key_provisions": [
+      "Officially names Jennifer A. Hemingway as Sergeant at Arms and Doorkeeper of the Senate",
+      "Requires the Senate to formally inform the House of Representatives about this election",
+      "Completes the official communication process between the two chambers of Congress"
+    ],
+    "who_it_affects": "This mainly affects Senate operations and staff, since the Sergeant at Arms oversees Senate security and day-to-day functions, but it has little to no direct impact on everyday Americans.",
+    "topics": [
+      "Other"
+    ],
+    "status_plain_english": "The Senate passed this resolution and has officially sent notice to the House of Representatives, so it is essentially complete."
+  },
+  {
+    "id": "119-SRES-12",
+    "original_title": "A resolution notifying the President of the United States of the election of a Sergeant at Arms and Doorkeeper of the Senate.",
+    "plain_title": "Senate Officially Notifies President of New Sergeant at Arms",
+    "plain_summary": "This resolution is the Senate officially telling the President that they have chosen Jennifer A. Hemingway as their new Sergeant at Arms and Doorkeeper. The Sergeant at Arms is basically the Senate's head of security and operations \u2014 they manage safety, maintain order during Senate sessions, and oversee many day-to-day functions of the Senate building. This is a formal notification, not a new law, just an official announcement.",
+    "key_provisions": [
+      "Notifies the President that Jennifer A. Hemingway was elected to the role",
+      "Recognizes her official title as Sergeant at Arms and Doorkeeper of the Senate",
+      "Formally documents the Senate's internal leadership decision"
+    ],
+    "who_it_affects": "This primarily affects Senate operations and Jennifer A. Hemingway herself, who now officially holds one of the Senate's top administrative and security positions.",
+    "topics": [
+      "Other"
+    ],
+    "status_plain_english": "The Senate unanimously agreed to this resolution right away, meaning it passed immediately without any changes or debate."
+  },
+  {
+    "id": "119-SRES-11",
+    "original_title": "A resolution electing Jennifer A. Hemingway as Sergeant at Arms and Doorkeeper of the Senate.",
+    "plain_title": "Senate Appoints Jennifer Hemingway as Its Head of Security",
+    "plain_summary": "This resolution officially gives Jennifer A. Hemingway a top job in the U.S. Senate called Sergeant at Arms and Doorkeeper. This person is responsible for security, maintaining order in the Senate, and managing many of the Senate's day-to-day operations. Think of it like the Senate hiring a new head of security and building manager all in one.",
+    "key_provisions": [
+      "Officially elects Jennifer A. Hemingway to the position",
+      "Assigns her the role of Sergeant at Arms and Doorkeeper of the Senate",
+      "Applies to Jennifer Hemingway from the state of Georgia"
+    ],
+    "who_it_affects": "This decision primarily affects Jennifer A. Hemingway, who gains a powerful leadership role, and indirectly affects Senate staff and visitors since she will oversee Senate security and operations.",
+    "topics": [
+      "Other"
+    ],
+    "status_plain_english": "All senators agreed to this resolution without any debate or changes, so it passed immediately and is now finalized."
+  },
+  {
+    "id": "119-SRES-10",
+    "original_title": "A resolution notifying the House of Representatives of the election of a Secretary of the Senate.",
+    "plain_title": "Senate Notifies House About Their New Record-Keeper",
+    "plain_summary": "The Senate elected a person named Jackie Barber to serve as Secretary of the Senate, which is basically the Senate's chief administrator and record-keeper. This resolution is simply the Senate's official way of letting the House of Representatives know about this appointment. Think of it like one office sending a memo to another office to say, 'Hey, we have a new person in charge of our paperwork.'",
+    "key_provisions": [
+      "Jackie Barber was elected as Secretary of the Senate",
+      "The House of Representatives is officially notified of this election",
+      "A formal message is sent between the two chambers of Congress"
+    ],
+    "who_it_affects": "This mainly affects the internal operations of Congress, particularly staff and members who will now work with Jackie Barber as the new Secretary of the Senate.",
+    "topics": [
+      "Other"
+    ],
+    "status_plain_english": "The Senate passed this resolution and sent an official notice to the House of Representatives informing them of the decision."
+  },
+  {
+    "id": "119-SRES-9",
+    "original_title": "A resolution notifying the President of the United States of the election of a Secretary of the Senate.",
+    "plain_title": "Senate Officially Notifies the President of Their New Secretary",
+    "plain_summary": "The Senate elected a new person, Jackie Barber, to serve as the Secretary of the Senate. This resolution is basically an official announcement letting the President know about that election. The Secretary of the Senate is an important administrative official who manages records, paperwork, and other official duties for the Senate.",
+    "key_provisions": [
+      "Officially notifies the President that Jackie Barber was elected",
+      "Confirms Jackie Barber as the new Secretary of the Senate",
+      "Formalizes the Senate's internal administrative appointment"
+    ],
+    "who_it_affects": "This primarily affects the workings of the U.S. Senate and its staff, as Jackie Barber will now oversee important administrative and record-keeping duties for the Senate.",
+    "topics": [
+      "Other"
+    ],
+    "status_plain_english": "The Senate unanimously agreed to this resolution right away, so it has already been passed and sent to the President."
+  },
+  {
+    "id": "119-SRES-8",
+    "original_title": "A resolution electing Jackie Barber as Secretary of the Senate.",
+    "plain_title": "Senate Picks Jackie Barber as Their New Secretary",
+    "plain_summary": "This resolution officially gives Jackie Barber the job of Secretary of the Senate. The Secretary of the Senate is an important administrative official who manages the Senate's records, finances, and day-to-day paperwork. Think of this person as the head office manager for the entire U.S. Senate.",
+    "key_provisions": [
+      "Officially elects Jackie Barber to the role of Secretary of the Senate",
+      "Fills an important administrative leadership position in the Senate",
+      "Takes effect immediately upon agreement by all senators"
+    ],
+    "who_it_affects": "This primarily affects Senate staff and operations, as Jackie Barber will now oversee the Senate's administrative functions, records, and finances on behalf of all senators.",
+    "topics": [
+      "Other"
+    ],
+    "status_plain_english": "Every senator agreed to this resolution without any debate or changes, so it passed immediately and Jackie Barber is now officially the Secretary of the Senate."
+  },
+  {
+    "id": "119-SRES-7",
+    "original_title": "A resolution fixing the hour of daily meeting of the Senate.",
+    "plain_title": "Senate Sets Daily Start Time to Noon",
+    "plain_summary": "This resolution officially sets noon (12:00 PM) as the time the U.S. Senate starts its daily sessions. Think of it like a school deciding what time classes begin each day. It is a simple scheduling rule for how the Senate organizes its workday.",
+    "key_provisions": [
+      "Senate daily meetings start at 12:00 PM noon",
+      "Applies to all regular daily Senate sessions",
+      "Agreed upon by all senators with no changes needed"
+    ],
+    "who_it_affects": "This primarily affects U.S. senators and their staff, since it determines what time they are expected to show up and begin official Senate business each day.",
+    "topics": [
+      "Other"
+    ],
+    "status_plain_english": "This resolution was immediately agreed to by every senator without any debate or changes, so it is already in effect."
+  },
+  {
+    "id": "119-HR-110",
+    "original_title": "Small Business Prosperity Act of 2025",
+    "plain_title": "A Bill to Help Small Businesses Grow and Succeed",
+    "plain_summary": "This bill is called the Small Business Prosperity Act of 2025, but its full details have not been publicly summarized yet. Based on the title, it likely proposes new rules or tax benefits to help small businesses \u2014 like a local restaurant or family shop \u2014 make more money and stay open. Until more details are released, the exact changes it would make are unclear.",
+    "key_provisions": [
+      "Likely includes tax relief or incentives for small businesses",
+      "May reduce financial or regulatory burdens on small business owners",
+      "Details of specific provisions are not yet publicly available"
+    ],
+    "who_it_affects": "This bill would most likely affect small business owners across the country, potentially making it easier or cheaper for them to run their businesses.",
+    "topics": [
+      "Economy"
+    ],
+    "status_plain_english": "This bill was recently introduced and has been sent to a House committee for review, meaning it has not been voted on yet."
+  },
+  {
+    "id": "119-HRES-14",
+    "original_title": "Electing Members to certain standing committees of the House of Representatives.",
+    "plain_title": "Choosing Which Representatives Serve on House Committees",
+    "plain_summary": "This resolution officially assigns certain members of the House of Representatives to specific standing committees. Committees are small groups of lawmakers who focus on particular topics, like the budget or education, and review bills before the full House votes on them. Think of it like assigning students to specific class groups where they'll do detailed work before sharing results with the whole class.",
+    "key_provisions": [
+      "Officially elects members to their assigned House committees",
+      "Fills open seats on standing committees",
+      "Formalizes committee membership through a House vote"
+    ],
+    "who_it_affects": "This primarily affects members of the House of Representatives, determining which lawmakers will serve on which committees and therefore which policy areas they will have direct influence over.",
+    "topics": [
+      "Other"
+    ],
+    "status_plain_english": "This resolution has been fully passed and approved by the House, with no further action needed."
+  },
+  {
+    "id": "119-HRES-15",
+    "original_title": "Rescinding the subpoenas issued by the January 6th Select Committee on September 23, 2021, October 6, 2021, and February 9, 2022, and withdrawing the recommendations finding Stephen K. Bannon, Mark Randall Meadows, Daniel Scavino, Jr., and Peter K. Navarro in contempt of Congress.",
+    "plain_title": "Canceling Subpoenas and Contempt Charges Against Four Trump Allies",
+    "plain_summary": "This bill would undo legal orders that forced four former Trump advisors \u2014 Steve Bannon, Mark Meadows, Peter Navarro, and Dan Scavino \u2014 to appear before the committee that investigated the January 6, 2021 Capitol attack. It would also erase the official findings that said these men broke the law by refusing to cooperate with Congress. Basically, it tries to wipe the slate clean for people who defied the investigation.",
+    "key_provisions": [
+      "Cancel the subpoenas requiring four Trump allies to testify",
+      "Drop the contempt of Congress findings against all four men",
+      "Officially close out the contempt proceedings with no consequences"
+    ],
+    "who_it_affects": "Steve Bannon, Mark Meadows, Peter Navarro, and Dan Scavino would benefit directly, as their legal obligations and contempt charges from the January 6th investigation would be erased.",
+    "topics": [
+      "Criminal Justice",
+      "Civil Rights",
+      "Other"
+    ],
+    "status_plain_english": "This bill was sent to two House committees for review and has not been voted on yet."
+  },
+  {
+    "id": "119-HRES-13",
+    "original_title": "Electing Members to certain standing committees of the House of Representatives.",
+    "plain_title": "Choosing Leaders for House of Representatives Committees",
+    "plain_summary": "This resolution officially selects the chairpersons who will lead 17 different committees in the House of Representatives. These committees are groups of lawmakers assigned to focus on specific topics, like agriculture, the military, or education. The chairs are the leaders who run the meetings and guide what each committee works on.",
+    "key_provisions": [
+      "Electing chairs for 17 House committees",
+      "Assigning leadership across major policy areas like defense, budget, and judiciary",
+      "Formalizing committee structure for the current session of Congress"
+    ],
+    "who_it_affects": "This resolution affects members of Congress and their staff, and indirectly affects all Americans since these committee chairs will shape what laws get debated and passed.",
+    "topics": [
+      "Other"
+    ],
+    "status_plain_english": "This resolution was fully approved by the House and is now considered final and complete."
+  },
+  {
+    "id": "119-HRES-18",
+    "original_title": "Expressing the sense of the House of Representatives that the Parthenon Marbles should be returned to Greece.",
+    "plain_title": "Should the UK Return Ancient Greek Sculptures to Greece?",
+    "plain_summary": "This resolution expresses that the U.S. House of Representatives believes the United Kingdom should give back famous ancient sculptures called the Parthenon Marbles to Greece. These sculptures were taken from a famous Greek temple called the Parthenon in the 1800s and have been kept in the British Museum in London ever since. Greece has long argued the sculptures belong back in their home country.",
+    "key_provisions": [
+      "Calls on the UK to negotiate with Greece about returning the sculptures",
+      "Acknowledges the sculptures were removed from Greece in the early 1800s",
+      "Supports the idea that the Parthenon Marbles belong back in Greece"
+    ],
+    "who_it_affects": "This resolution mainly affects the governments of the United Kingdom and Greece, as well as anyone who cares about cultural heritage and where historically significant artifacts belong.",
+    "topics": [
+      "Foreign Policy"
+    ],
+    "status_plain_english": "This resolution was just introduced and has been sent to the House Foreign Affairs Committee, where it will be reviewed before any further action is taken."
+  },
+  {
+    "id": "119-HR-55",
+    "original_title": "To repeal the National Voter Registration Act of 1993.",
+    "plain_title": "Bill to End Easy Voter Registration Rules Across the U.S.",
+    "plain_summary": "This bill would get rid of a 1993 law that made it easier for Americans to register to vote. That old law required states to let people register to vote at the same time they get or renew a driver's license \u2014 often called 'Motor Voter.' Without that law, states could make their own rules about how and when people can sign up to vote, which could make it harder for some people to register.",
+    "key_provisions": [
+      "Eliminates the requirement to offer voter registration at DMV offices",
+      "Removes federal rules that standardized voter registration across states",
+      "Gives states full control over their own voter registration processes"
+    ],
+    "who_it_affects": "This bill would affect all eligible American voters, especially those who rely on simple registration options like signing up at the DMV, potentially making it harder for some people to get registered to vote.",
+    "topics": [
+      "Civil Rights"
+    ],
+    "status_plain_english": "This bill was recently introduced and sent to a House committee for review, meaning it has not been voted on yet."
+  },
+  {
+    "id": "119-HR-123",
+    "original_title": "Improving Science in Chemical Assessments Act",
+    "plain_title": "Making Chemical Safety Reviews More Organized and Efficient",
+    "plain_summary": "This bill changes which offices inside the EPA are responsible for studying how dangerous certain chemicals are to human health. Right now, one specific EPA program handles these chemical safety studies, but this bill would shift that work to other EPA departments that specialize in those chemicals. It also creates a new committee to make sure different EPA offices aren't accidentally doing the same work twice.",
+    "key_provisions": [
+      "Shifts chemical safety studies to specialized EPA program offices",
+      "Removes sole responsibility from the Integrated Risk Information System program",
+      "Creates a steering committee to prevent duplicate work across EPA offices"
+    ],
+    "who_it_affects": "This bill primarily affects EPA scientists and staff who conduct chemical safety reviews, and indirectly affects the general public who relies on those reviews to know which chemicals in their environment are dangerous.",
+    "topics": [
+      "Healthcare",
+      "Climate",
+      "Other"
+    ],
+    "status_plain_english": "This bill was recently introduced in Congress and has been sent to two committees for review, but has not been voted on yet."
+  },
+  {
+    "id": "119-HRES-28",
+    "original_title": "BRIDGE to Congress Resolution",
+    "plain_title": "Letting Witnesses Testify Remotely in Congress Without Special Approval",
+    "plain_summary": "Right now, if someone wants to testify at a congressional committee hearing from a remote location (like via video call), the committee chairperson has to give special permission first. This resolution would remove that requirement, making it easier for witnesses to participate in hearings without needing the chair's approval. For example, an expert living far from Washington D.C. could testify virtually without jumping through extra hoops.",
+    "key_provisions": [
+      "Removes the requirement for committee chairs to approve remote testimony",
+      "Makes remote witness participation easier and more accessible",
+      "Changes existing House of Representatives rules on committee proceedings"
+    ],
+    "who_it_affects": "Witnesses such as experts, advocates, and ordinary citizens who want to testify before congressional committees would find it easier to participate remotely without needing special permission from the committee chair.",
+    "topics": [
+      "Other"
+    ],
+    "status_plain_english": "This resolution was just introduced and sent to the House Committee on Rules, where it will be reviewed before any further action is taken."
+  },
+  {
+    "id": "119-HJRES-16",
+    "original_title": "Proposing an amendment to the Constitution of the United States extending the right to vote to citizens sixteen years of age or older.",
+    "plain_title": "Letting 16 and 17 Year Olds Vote in Elections",
+    "plain_summary": "This proposal would change the U.S. Constitution to allow citizens who are 16 or 17 years old to vote in elections, including for president, Congress, and local offices. Right now, you have to be at least 18 to vote anywhere in the U.S. If this passed, millions of high schoolers could vote for the first time.",
+    "key_provisions": [
+      "Lowers the minimum voting age from 18 to 16",
+      "Applies to all U.S. citizens who are at least 16 years old",
+      "Would require a change to the U.S. Constitution itself"
+    ],
+    "who_it_affects": "16 and 17 year olds across the United States would gain the right to vote in elections for the first time, giving them a direct say in the laws and leaders that affect their lives.",
+    "topics": [
+      "Civil Rights"
+    ],
+    "status_plain_english": "This bill was just sent to a House committee for review and has not been voted on yet."
+  },
+  {
+    "id": "119-HRES-22",
+    "original_title": "Electing Members to certain standing committees of the House of Representatives.",
+    "plain_title": "Choosing House Members to Serve on Four Key Committees",
+    "plain_summary": "This resolution officially assigns certain members of the House of Representatives to four important committees. These committees handle big topics like government spending, energy, banking, and taxes. Think of it like assigning students to specific clubs or teams where they will focus their work.",
+    "key_provisions": [
+      "Assigns members to the Appropriations Committee, which controls government spending",
+      "Assigns members to the Energy and Commerce Committee, which oversees energy and business rules",
+      "Assigns members to the Financial Services and Ways and Means Committees, which handle banking and taxes"
+    ],
+    "who_it_affects": "This primarily affects Members of Congress, determining which representatives will have decision-making power over major issues like the federal budget, energy policy, and taxes.",
+    "topics": [
+      "Other"
+    ],
+    "status_plain_english": "This resolution has been fully passed and finalized, with no further action needed."
+  },
+  {
+    "id": "119-SRES-16",
+    "original_title": "A resolution to constitute the majority party's membership on certain committees for the One Hundred Nineteenth Congress, or until their successors are chosen.",
+    "plain_title": "Republicans Pick Their Senate Committee Members and Leaders",
+    "plain_summary": "This resolution officially assigns Republican senators to their spots on 20 different Senate committees and names who will be in charge of each one. Senate committees are like specialized teams that study and work on specific topics \u2014 like farming, the military, or healthcare \u2014 before the full Senate votes on related bills. Think of it as setting the starting lineup for the Republican team in the Senate.",
+    "key_provisions": [
+      "Assigns Republican members to 20 Senate committees",
+      "Names a chair (leader) for each committee",
+      "Sets up committee rosters for the 119th Congress"
+    ],
+    "who_it_affects": "This mainly affects Republican senators, who are now officially assigned to specific committees where they will review laws related to topics like healthcare, the military, farming, and more.",
+    "topics": [
+      "Other"
+    ],
+    "status_plain_english": "This resolution was immediately approved by the full Senate without any debate or changes, meaning all senators agreed to it on the spot."
+  },
+  {
+    "id": "119-SRES-19",
+    "original_title": "A resolution honoring the life and legacy of President Jimmy Carter and commending President Jimmy Carter for his life-long career of public service, humanitarian leadership, diplomacy, and courageous advocacy.",
+    "plain_title": "Honoring Former President Jimmy Carter's Life and Legacy",
+    "plain_summary": "This resolution is Congress's official way of paying tribute to former President Jimmy Carter after his death. It recognizes his decades of work both as president and as a private citizen doing things like building homes for the poor and promoting peace around the world. It also expresses condolences to his family.",
+    "key_provisions": [
+      "Officially mourns the death of former President Jimmy Carter",
+      "Extends sympathy to the Carter family on behalf of the Senate",
+      "Honors his contributions to the United States through public service and humanitarian work"
+    ],
+    "who_it_affects": "This resolution primarily honors the memory of Jimmy Carter and offers comfort to his family, but it also serves as a formal recognition for all Americans of his contributions to the country.",
+    "topics": [
+      "Other"
+    ],
+    "status_plain_english": "This resolution was voted on and approved by the entire Senate in one step, with every senator agreeing to pass it."
+  },
+  {
+    "id": "119-HR-94",
+    "original_title": "To terminate the designation of the Islamic Republic of Pakistan as a major non-NATO ally, and for other purposes.",
+    "plain_title": "Removing Pakistan's Special Military Partnership Status with the U.S.",
+    "plain_summary": "This bill would take away Pakistan's special status as a close U.S. military partner, which currently gives Pakistan access to extra American weapons and the ability to work on defense projects with the U.S. Pakistan could earn this status back, but only if it proves it has taken serious action against a dangerous terrorist group called the Haqqani Network, which is connected to the Taliban.",
+    "key_provisions": [
+      "Remove Pakistan's major non-NATO ally designation immediately",
+      "Block the President from restoring Pakistan's status without proof of action against terrorists",
+      "Require Pakistan to arrest and prosecute Haqqani Network leaders to regain status"
+    ],
+    "who_it_affects": "This bill would primarily affect the Pakistani government and military, U.S. defense contractors who work with Pakistan, and indirectly, people in the region who are impacted by terrorism and U.S. foreign policy decisions.",
+    "topics": [
+      "Foreign Policy"
+    ],
+    "status_plain_english": "This bill was sent to a House committee for review and has not been voted on yet."
+  },
+  {
+    "id": "119-HR-93",
+    "original_title": "Stop Imposing Woke Ideology Abroad Act",
+    "plain_title": "Bill to Cut Funding for U.S. Racial Equity Work Overseas",
+    "plain_summary": "This bill would stop the U.S. government from spending money on a State Department official whose job is to fight racism and discrimination around the world. It would also block funding for the State Department's plan to address racial fairness in how it handles foreign affairs. Basically, it removes two programs focused on racial equity from the U.S. government's international work.",
+    "key_provisions": [
+      "Ban funding for the Special Representative for Racial Equity and Justice",
+      "Ban funding for the State Department's Equity Action Plan",
+      "Applies to all federal dollars spent on these programs"
+    ],
+    "who_it_affects": "This bill would affect State Department employees and officials working on racial equity issues abroad, as well as communities around the world that benefit from U.S. efforts to combat systemic racism and discrimination internationally.",
+    "topics": [
+      "Foreign Policy",
+      "Civil Rights"
+    ],
+    "status_plain_english": "This bill was introduced and sent to the House Committee on Foreign Affairs, meaning a small group of representatives will review it before the full House can vote on it."
+  },
+  {
+    "id": "119-HRES-29",
+    "original_title": "Recognizing the 125th anniversary of organized Okinawan immigration to the United States.",
+    "plain_title": "Honoring 125 Years of Okinawan Americans in the United States",
+    "plain_summary": "This resolution officially recognizes and celebrates the 125th anniversary of people from Okinawa, Japan first immigrating to the United States. It honors the history and contributions that Okinawan Americans have made to this country over the past 125 years. It also encourages all Americans to recognize and celebrate this milestone.",
+    "key_provisions": [
+      "Officially recognizes the 125th anniversary of Okinawan immigration to the U.S.",
+      "Honors the historic contributions of Okinawan Americans",
+      "Encourages Americans to celebrate this anniversary"
+    ],
+    "who_it_affects": "This resolution primarily honors Okinawan Americans and their communities by formally recognizing their history and contributions to the United States.",
+    "topics": [
+      "Immigration",
+      "Civil Rights",
+      "Other"
+    ],
+    "status_plain_english": "This resolution was just introduced and has been sent to a House committee for review, where it will be examined before any further votes can take place."
+  },
+  {
+    "id": "119-HRES-31",
+    "original_title": "Electing Members to certain standing committees of the House of Representatives.",
+    "plain_title": "Choosing Which Representatives Serve on Key House Committees",
+    "plain_summary": "This resolution officially assigns certain members of the House of Representatives to four important committees. These committees handle topics like the military, courts and laws, government oversight, and veterans' benefits. Think of it like assigning students to specific class groups where they'll focus on particular subjects.",
+    "key_provisions": [
+      "Assigns members to the Armed Services Committee, which oversees the military",
+      "Assigns members to the Judiciary Committee, which deals with laws and courts",
+      "Assigns members to the Oversight, Veterans' Affairs Committees"
+    ],
+    "who_it_affects": "This mainly affects the members of Congress who are being assigned to these committees, as well as the Americans whose issues those committees handle, like veterans and military families.",
     "topics": [
       "Other"
     ],
     "status_plain_english": "This resolution has been fully approved and finalized \u2014 no further action is needed."
   },
   {
-    "id": "119-HRES-3",
-    "original_title": "Authorizing the Speaker to appoint a committee to notify the President of the assembly of the Congress.",
-    "plain_title": "Telling the President That Congress Is Ready to Work",
-    "plain_summary": "This resolution lets the House of Representatives officially inform the President that enough members of both the House and Senate have shown up to do their jobs. Think of it like taking attendance at the start of school \u2014 Congress needs to confirm that enough people are present before they can officially get started. This is a formal tradition that happens at the beginning of a new session of Congress.",
+    "id": "119-HR-78",
+    "original_title": "Pregnant Women Health and Safety Act of 2025",
+    "plain_title": "Rules for Doctors Who Perform Abortions and Abortion Clinics",
+    "plain_summary": "This bill creates new rules that doctors and clinics must follow when performing abortions. Doctors would need to have a special agreement with a nearby hospital so their patients can be admitted there if something goes wrong, and they must tell patients which hospital to go to for follow-up care. Abortion clinics would also need to meet the same safety and building standards as outpatient surgery centers in order to receive any federal money.",
     "key_provisions": [
-      "Speaker of the House is allowed to pick a group to deliver the message",
-      "Both the House and Senate confirm they have enough members present",
-      "The President is officially notified that Congress is ready to begin"
+      "Doctors must have hospital admitting privileges nearby",
+      "Doctors must inform patients where to get emergency follow-up care",
+      "Abortion clinics must meet federal outpatient surgery center standards to receive federal funding"
     ],
-    "who_it_affects": "This mainly affects members of Congress and the President, as it is an internal government procedure to officially kick off a new session of Congress.",
+    "who_it_affects": "This bill would affect doctors who perform abortions, abortion clinics, and patients seeking abortions, by adding new legal requirements doctors must meet and new safety standards clinics must follow.",
     "topics": [
-      "Other"
+      "Healthcare",
+      "Civil Rights"
     ],
-    "status_plain_english": "This resolution was agreed to and finalized without any objections, meaning it passed smoothly and no further action is needed."
+    "status_plain_english": "This bill was recently introduced in Congress and has been sent to two committees to be reviewed, but has not been voted on yet."
   }
 ]
