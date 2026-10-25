@@ -1,815 +1,848 @@
 [
   {
-    "id": "119-HRES-27",
-    "original_title": "Expressing opposition to Central Business District Tolling Program of New York City.",
-    "plain_title": "Congress Opposes New York City's Toll Fee for Downtown Manhattan",
-    "plain_summary": "This resolution is Congress officially saying it disagrees with New York City's plan to charge drivers a fee to enter the busiest part of Manhattan. The program, called congestion pricing, would make drivers pay a toll to reduce traffic in that area. Congress is asking New York City and federal agencies to stop the program and study how it would hurt the economy first.",
+    "id": "119-S-5533",
+    "original_title": "Segal AmeriCorps Education Award Tax Relief Act of 2026",
+    "plain_title": "Tax Break for AmeriCorps Volunteers' Education Rewards",
+    "plain_summary": "AmeriCorps is a national volunteer program where people serve their communities and earn an education award (like a scholarship) to help pay for college or student loans. Right now, that award is treated as taxable income, meaning volunteers have to pay taxes on money they earned through public service. This bill would change that so volunteers no longer have to pay federal income taxes on their AmeriCorps education awards.",
     "key_provisions": [
-      "Congress officially opposes New York City's congestion pricing toll program",
-      "Calls for an economic impact study before the program moves forward",
-      "Recommends that federal agencies and New York City pause the program"
+      "Removes federal income tax on AmeriCorps education awards",
+      "Helps volunteers keep more of their scholarship money",
+      "Encourages more people to participate in national service"
     ],
-    "who_it_affects": "This bill would affect everyday drivers, commuters, and businesses in and around Manhattan who would otherwise have to pay a new toll fee to drive into the busiest part of New York City.",
+    "who_it_affects": "AmeriCorps volunteers who have earned education awards would benefit by keeping more of their scholarship money instead of losing some of it to taxes.",
     "topics": [
-      "Economy",
-      "Other"
-    ],
-    "status_plain_english": "This resolution was recently introduced and has been sent to a House committee for review, but has not been voted on yet."
-  },
-  {
-    "id": "119-HR-6",
-    "original_title": "Reserved for the Speaker.",
-    "plain_title": "A Placeholder Bill Reserved for the Speaker of the House",
-    "plain_summary": "This is a placeholder slot in Congress that the Speaker of the House has set aside, likely to introduce an important bill soon. No actual bill text or details have been filled in yet. Think of it like a saved seat at a table \u2014 something is coming, but we don't know what it is yet.",
-    "key_provisions": [
-      "No provisions available yet",
-      "Bill content has not been released",
-      "Speaker has reserved this slot for future legislation"
-    ],
-    "who_it_affects": "No one can be identified as affected yet because the bill has no content \u2014 once the Speaker fills in the details, we will know who it impacts.",
-    "topics": [
-      "Other"
-    ],
-    "status_plain_english": "This bill is just a placeholder and has no content or actions yet \u2014 the Speaker of the House is saving this spot to introduce a bill later."
-  },
-  {
-    "id": "119-HR-9",
-    "original_title": "Reserved for the Speaker.",
-    "plain_title": "A Placeholder Bill Reserved for the House Speaker",
-    "plain_summary": "This is a placeholder slot in Congress that the Speaker of the House has set aside for future use. It does not yet contain any actual legislation or policy proposals. Think of it like a saved seat \u2014 the Speaker is holding this spot to introduce a bill later.",
-    "key_provisions": [
-      "No provisions exist yet",
-      "Content to be determined by the Speaker",
-      "Placeholder for future legislation"
-    ],
-    "who_it_affects": "No one is affected yet, as this bill has no content \u2014 it is simply a reserved slot for the Speaker to fill with a real proposal later.",
-    "topics": [
-      "Other"
-    ],
-    "status_plain_english": "This bill has no content or actions yet \u2014 it is just a placeholder being held by the Speaker of the House for future use."
-  },
-  {
-    "id": "119-HR-11",
-    "original_title": "Reserved for the Minority Leader.",
-    "plain_title": "A Bill Held for the Minority Party Leader to Name",
-    "plain_summary": "This is a placeholder bill that has been reserved for the Minority Leader of Congress to use when they are ready to introduce legislation. It does not yet have any specific content or purpose. Think of it like a saved spot in line \u2014 the details will be filled in later.",
-    "key_provisions": [
-      "No provisions defined yet",
-      "Content to be determined by Minority Leader",
-      "Placeholder status only"
-    ],
-    "who_it_affects": "No one is affected yet, as this bill has no content \u2014 it is simply a reserved slot for future legislation.",
-    "topics": [
-      "Other"
-    ],
-    "status_plain_english": "This bill is just a placeholder and has not been introduced, debated, or voted on yet."
-  },
-  {
-    "id": "119-HR-13",
-    "original_title": "Reserved for the Minority Leader.",
-    "plain_title": "A Placeholder Bill Reserved for the Minority Leader",
-    "plain_summary": "This is a placeholder slot in Congress reserved for the minority leader, which is the top member of the political party that has fewer seats in that chamber. No actual bill has been written or introduced here yet. Think of it like a saved seat at a lunch table \u2014 the spot is held, but no one is sitting there yet.",
-    "key_provisions": [
-      "No provisions written yet",
-      "Bill content has not been introduced",
-      "Reserved as a placeholder for future legislation"
-    ],
-    "who_it_affects": "No one is affected yet because this is just a reserved slot with no actual bill or policy attached to it.",
-    "topics": [
-      "Other"
-    ],
-    "status_plain_english": "This is not a real bill yet \u2014 it is simply a placeholder reserved for the minority leader to use when they are ready to introduce legislation."
-  },
-  {
-    "id": "119-HR-16",
-    "original_title": "Reserved for the Minority Leader.",
-    "plain_title": "A Placeholder Bill Saved for the Minority Leader",
-    "plain_summary": "This is a reserved bill slot that has been set aside for the Minority Leader of Congress to use when they are ready to introduce a bill. Right now, there is no actual law or policy proposal attached to it. Think of it like a saved seat \u2014 the spot exists, but no one is sitting in it yet.",
-    "key_provisions": [
-      "No specific provisions have been written yet",
-      "Bill content is pending the Minority Leader's proposal",
-      "Slot is reserved as a procedural placeholder"
-    ],
-    "who_it_affects": "No one is affected yet because this bill has no content \u2014 it is simply a reserved space in the legislative process.",
-    "topics": [
-      "Other"
-    ],
-    "status_plain_english": "This bill is just a placeholder and has not been introduced, written, or voted on yet."
-  },
-  {
-    "id": "119-HR-19",
-    "original_title": "Reserved for the Minority Leader.",
-    "plain_title": "A Bill Reserved for the Minority Leader to Introduce",
-    "plain_summary": "This is a placeholder bill title that is being held for the Minority Leader of Congress to use when they are ready to introduce a bill. The Minority Leader is the head of whichever political party has fewer members in that chamber of Congress. No actual bill text or topic has been assigned to this slot yet.",
-    "key_provisions": [
-      "No provisions available yet",
-      "Bill content has not been written or released",
-      "Title is being held as a reserved spot"
-    ],
-    "who_it_affects": "No one can be identified as affected yet because the bill has no content, topic, or provisions written into it.",
-    "topics": [
-      "Other"
-    ],
-    "status_plain_english": "This bill is just a reserved placeholder and has no content, no votes, and no actions taken on it yet."
-  },
-  {
-    "id": "119-HJRES-8",
-    "original_title": "Proposing an amendment to the Constitution of the United States to provide certain line item veto authority to the President.",
-    "plain_title": "Giving the President Power to Cut Specific Budget Items",
-    "plain_summary": "This proposal would change the U.S. Constitution to let the President reject or reduce specific spending items in a budget bill, instead of having to accept or reject the entire bill. For example, if Congress passes a budget that includes money for a project the President thinks is wasteful, the President could cut just that part without vetoing everything else. Congress could still override the President's cut if two-thirds of both the House and Senate vote against it.",
-    "key_provisions": [
-      "President can reduce specific spending items in budget bills",
-      "President must notify Congress within 10 days of making a cut",
-      "Two-thirds of both House and Senate can vote to restore the cut spending"
-    ],
-    "who_it_affects": "This would affect all Americans by changing how the government controls spending, giving the President more power to cut specific programs while reducing Congress's full control over the budget.",
-    "topics": [
-      "Economy",
-      "Other"
-    ],
-    "status_plain_english": "This proposal was sent to the House Judiciary Committee to be reviewed, and has not been voted on yet."
-  },
-  {
-    "id": "119-HRES-2",
-    "original_title": "To inform the Senate that a quorum of the House has assembled and of the election of the Speaker and the Clerk.",
-    "plain_title": "House Notifies Senate of New Speaker and Clerk Election",
-    "plain_summary": "This resolution is basically an official announcement from the House of Representatives to the Senate. It lets the Senate know that enough House members showed up to get to work, that Mike Johnson from Louisiana was chosen as the leader of the House (called the Speaker), and that Kevin McCumber was chosen to handle the House's official records and paperwork (called the Clerk). Think of it like the first day of school when a teacher takes attendance and announces who's in charge.",
-    "key_provisions": [
-      "Confirms enough House members were present to officially start working",
-      "Announces Mike Johnson as the elected Speaker of the House",
-      "Announces Kevin McCumber as the elected Clerk of the House"
-    ],
-    "who_it_affects": "This procedural notice mainly affects members of Congress and government operations, as it officially kicks off the 119th Congress and establishes who is in charge of running the House of Representatives.",
-    "topics": [
-      "Other"
-    ],
-    "status_plain_english": "This resolution was quickly approved without any debate or objection, meaning it is fully finalized."
-  },
-  {
-    "id": "119-HRES-3",
-    "original_title": "Authorizing the Speaker to appoint a committee to notify the President of the assembly of the Congress.",
-    "plain_title": "Telling the President That Congress Is Ready to Work",
-    "plain_summary": "This resolution allows the Speaker of the House to form a small committee whose only job is to officially inform the President that enough members of Congress have shown up to start doing business. Think of it like taking attendance and then sending a note to the principal saying class is ready to begin. Both the House and Senate have to confirm they have enough members present before this message gets sent.",
-    "key_provisions": [
-      "Speaker appoints a special committee to carry the message",
-      "Committee notifies the President that Congress has a quorum (enough members present)",
-      "Both the House and Senate participate in sending this notification"
-    ],
-    "who_it_affects": "This resolution mainly affects Congress members and the President, as it is a formal procedural step that signals the government is officially ready to conduct legislative business.",
-    "topics": [
-      "Other"
-    ],
-    "status_plain_english": "This resolution was approved and the matter is officially closed \u2014 no further action will be taken on it."
-  },
-  {
-    "id": "119-HRES-4",
-    "original_title": "Authorizing the Clerk to inform the President of the election of the Speaker and the Clerk.",
-    "plain_title": "Officially Telling the President Who Won House Leadership Roles",
-    "plain_summary": "When the House of Representatives elects new leaders, they are required to officially notify the President of the United States. This resolution formally lets the President know that Mike Johnson was chosen as Speaker of the House and Kevin McCumber was chosen as Clerk for the 119th Congress. Think of it like sending an official announcement letter to the President after an internal vote.",
-    "key_provisions": [
-      "Notifying the President that Mike Johnson was elected Speaker of the House",
-      "Notifying the President that Kevin McCumber was elected Clerk of the House",
-      "Fulfilling the formal requirement to inform the executive branch of House leadership"
-    ],
-    "who_it_affects": "This mainly affects the formal workings of the U.S. government, ensuring the President is officially aware of who is leading the House of Representatives.",
-    "topics": [
-      "Other"
-    ],
-    "status_plain_english": "This resolution was quickly approved by the House without any objections and is now complete."
-  },
-  {
-    "id": "119-HRES-9",
-    "original_title": "Reaffirming that the United States is not a party to the Rome Statute and does not recognize the jurisdiction of the International Criminal Court.",
-    "plain_title": "U.S. Says It Does Not Follow the International Criminal Court",
-    "plain_summary": "This resolution is a formal statement by Congress saying the U.S. does not belong to or follow the rules of the International Criminal Court (ICC), which is a global court that can put world leaders on trial for serious crimes. It also criticizes the ICC for trying to arrest Israeli leaders, saying those arrest warrants are unfair. The resolution shows support for Israel's right to protect its leaders from international legal action.",
-    "key_provisions": [
-      "Reaffirms the U.S. is not a member of the International Criminal Court",
-      "Condemns ICC arrest warrants issued against Israeli Prime Minister Netanyahu and Defense Minister Gallant",
-      "Supports Israel's right to defend itself and its leaders from international legal challenges"
-    ],
-    "who_it_affects": "This resolution mainly affects U.S. foreign policy and Israeli government leaders, signaling that the U.S. will not cooperate with ICC actions targeting its allies like Israel.",
-    "topics": [
-      "Foreign Policy"
-    ],
-    "status_plain_english": "This resolution was sent to the House Committee on Foreign Affairs, where a small group of lawmakers will review it before deciding if it moves forward to a full vote."
-  },
-  {
-    "id": "119-HRES-8",
-    "original_title": "Reaffirming the House of Representatives's commitment to ensuring secure elections throughout the United States by recognizing that the presentation of valid photograph identification is a fundamental component of secure elections.",
-    "plain_title": "Congress Says Photo ID Should Be Required to Vote",
-    "plain_summary": "This resolution is a formal statement from the House of Representatives saying they believe showing a photo ID when you vote is an important part of keeping elections safe and secure. It doesn't create a new law or change any rules \u2014 it's more like an official opinion statement. Think of it like a team putting out a press release saying they support something, without actually doing anything new about it yet.",
-    "key_provisions": [
-      "Reaffirms House commitment to secure elections",
-      "States that photo ID is a key part of election security",
-      "Does not create any new laws or requirements on its own"
-    ],
-    "who_it_affects": "This resolution could affect all eligible voters, particularly those who may not have a government-issued photo ID, such as some elderly, low-income, or minority voters, if future laws are passed based on this position.",
-    "topics": [
-      "Civil Rights",
-      "Other"
-    ],
-    "status_plain_english": "This resolution was sent to a House committee for review and has not been voted on yet."
-  },
-  {
-    "id": "119-SCONRES-3",
-    "original_title": "A concurrent resolution authorizing the use of the rotunda of the Capitol for the lying in state of the remains of the late James Earl Carter, Jr., 39th President of the United States.",
-    "plain_title": "Allowing Jimmy Carter to Lie in State at the U.S. Capitol",
-    "plain_summary": "This resolution gives permission for former President Jimmy Carter's body to be placed in the U.S. Capitol Rotunda so the public can pay their respects after his death. This tradition, called 'lying in state,' is a special honor reserved for important national figures like presidents. It was scheduled to happen from January 7 to January 9, 2025.",
-    "key_provisions": [
-      "Permits use of the Capitol Rotunda for the ceremony",
-      "Sets the dates as January 7\u20139, 2025",
-      "Honors Jimmy Carter as the 39th President of the United States"
-    ],
-    "who_it_affects": "This affects the general public, who would have the opportunity to visit the Capitol and pay their respects to former President Jimmy Carter during the lying in state period.",
-    "topics": [
-      "Other"
-    ],
-    "status_plain_english": "This resolution was fully passed and agreed to by Congress without any objections."
-  },
-  {
-    "id": "119-HRES-19",
-    "original_title": "Providing the sense of the House of Representatives that the House should not adjourn until the annual appropriation bills within the jurisdiction of all the subcommittees of the Committee on Appropriations for the current fiscal year are enacted into law.",
-    "plain_title": "House Should Stay in Session Until Budget Bills Are Passed",
-    "plain_summary": "This resolution says that members of the House of Representatives should not take a break or go home until they have finished passing all of the government's yearly budget bills. Think of it like a rule that says you can't leave class until your homework is done. It's meant to pressure lawmakers to actually complete the budget on time instead of leaving it unfinished.",
-    "key_provisions": [
-      "House members should not adjourn (take a break) until budget bills are passed",
-      "Applies to all annual appropriations bills for the current fiscal year",
-      "Expresses the official opinion of the House of Representatives"
-    ],
-    "who_it_affects": "This bill primarily affects members of Congress, pushing them to stay and do their work, which indirectly affects all Americans who rely on government-funded programs and services.",
-    "topics": [
-      "Economy",
-      "Other"
-    ],
-    "status_plain_english": "This resolution was sent to the House Appropriations Committee for review and has not been voted on yet."
-  },
-  {
-    "id": "119-HRES-7",
-    "original_title": "Recognizing the importance of access to comprehensive, high-quality, life-affirming medical care for women of all ages.",
-    "plain_title": "Supporting Better Healthcare Access for Women Across America",
-    "plain_summary": "This resolution is a formal statement from Congress saying that women in the U.S. should have access to good, caring, and complete healthcare. It does not create any new laws or programs on its own, but it puts Congress on record as supporting quality medical care for women. Think of it like a public declaration of values rather than a rule that must be followed.",
-    "key_provisions": [
-      "Support for women having access to comprehensive healthcare",
-      "Emphasis on care being compassionate and high-quality",
-      "Focus on 'life-affirming' medical treatment for women of all ages"
-    ],
-    "who_it_affects": "This resolution affects women of all ages across the United States by expressing congressional support for their right to access quality and compassionate healthcare.",
-    "topics": [
-      "Healthcare",
-      "Civil Rights"
-    ],
-    "status_plain_english": "This resolution was sent to a House committee for review and has not been voted on yet."
-  },
-  {
-    "id": "119-HJRES-21",
-    "original_title": "Disapproving of the rule submitted by the Department of Homeland Security relating to \"Modernizing H-2 Program Requirements, Oversight, and Worker Protections\".",
-    "plain_title": "Congress Tries to Cancel New Protections for Temporary Foreign Workers",
-    "plain_summary": "This bill would cancel a rule created by the Department of Homeland Security that was meant to give more rights and protections to temporary foreign workers who come to the U.S. on H-2A (farm work) and H-2B (non-farm work) visas. The canceled rule had given these workers things like protection if they reported unsafe conditions, equal treatment regardless of what country they came from, and 60 extra days to stay in the U.S. if they lost their job. By passing this bill, Congress would erase those new protections.",
-    "key_provisions": [
-      "Cancel whistleblower protections for temporary foreign workers",
-      "Remove equal treatment rules based on workers' home countries",
-      "Eliminate the 60-day grace period after losing a job"
-    ],
-    "who_it_affects": "Temporary foreign workers on H-2A and H-2B visas \u2014 such as farm workers and seasonal workers \u2014 would lose recently granted protections and rights if this bill passes.",
-    "topics": [
-      "Immigration"
-    ],
-    "status_plain_english": "This bill has been sent to the House Judiciary Committee, where it will be reviewed before any vote can happen."
-  },
-  {
-    "id": "119-HCONRES-1",
-    "original_title": "Regarding consent to assemble outside the seat of government.",
-    "plain_title": "Allowing Congress to Meet Outside of Washington, D.C.",
-    "plain_summary": "This resolution gives Congress permission to hold its meetings somewhere other than Washington, D.C., if top leaders decide it is necessary. The Speaker of the House and the Senate Majority Leader can agree together to move Congress to a different location. They must first talk it over with the minority leaders from both parties before making that decision.",
-    "key_provisions": [
-      "Congress can meet outside Washington, D.C. during 2025-2026",
-      "The House Speaker and Senate Majority Leader must agree it serves the public interest",
-      "Minority party leaders from both chambers must be consulted first"
-    ],
-    "who_it_affects": "This primarily affects members of Congress and their staff, since it changes where they are allowed to officially meet and conduct government business.",
-    "topics": [
-      "Other"
-    ],
-    "status_plain_english": "This resolution has passed the House and been sent to the Senate, where it still needs to be voted on."
-  },
-  {
-    "id": "119-HRES-1",
-    "original_title": "Electing officers of the House of Representatives.",
-    "plain_title": "Choosing Key Staff Leaders for the U.S. House of Representatives",
-    "plain_summary": "This resolution officially appoints three important staff members who run the behind-the-scenes operations of the U.S. House of Representatives. The Clerk keeps official records, the Sergeant-at-Arms handles security and enforces rules, and the Chief Administrative Officer manages the day-to-day business like payroll and technology. Think of it like a school electing its principal, head of security, and office manager all at once.",
-    "key_provisions": [
-      "Kevin McCumber of Illinois appointed as House Clerk",
-      "William McFarland of Maryland appointed as Sergeant-at-Arms",
-      "Catherine Szpindor of Virginia appointed as Chief Administrative Officer"
-    ],
-    "who_it_affects": "This resolution affects the staff and operations of the U.S. House of Representatives, as these three officials oversee recordkeeping, security, and administrative functions that keep Congress running smoothly.",
-    "topics": [
-      "Other"
-    ],
-    "status_plain_english": "This resolution has been fully approved and is considered final \u2014 no further action is needed."
-  },
-  {
-    "id": "119-SRES-2",
-    "original_title": "A resolution informing the House of Representatives that a quorum of the Senate is assembled.",
-    "plain_title": "Senate Tells the House It Has Enough Members Present",
-    "plain_summary": "This resolution is basically a formal announcement from the Senate to the House of Representatives. It lets the House know that enough senators have shown up (a quorum) for the Senate to officially do its work. Think of it like taking attendance at school and announcing that class can begin.",
-    "key_provisions": [
-      "Senate secretary sends official notice to the House",
-      "Confirms enough senators are present to conduct business",
-      "Signals the Senate is ready to start working on legislation"
-    ],
-    "who_it_affects": "This procedural action mainly affects members of Congress, as it formally allows the Senate and House to coordinate and begin conducting official legislative business together.",
-    "topics": [
-      "Other"
-    ],
-    "status_plain_english": "The Senate passed this procedural notice and sent it over to the House of Representatives to officially inform them."
-  },
-  {
-    "id": "119-SRES-3",
-    "original_title": "A resolution to elect Charles E. Grassley, a Senator from the State of Iowa, to be President pro tempore of the Senate of the United States.",
-    "plain_title": "Choosing a Backup Leader for the U.S. Senate",
-    "plain_summary": "This resolution officially selects Senator Charles Grassley of Iowa to serve as President pro tempore of the Senate. The President pro tempore is the Senate's official backup leader \u2014 they run Senate meetings when the Vice President (who normally leads the Senate) is absent. This is mostly a ceremonial role, but it also places the person third in line to become President of the United States.",
-    "key_provisions": [
-      "Elects Charles Grassley as President pro tempore of the Senate",
-      "Gives Grassley authority to lead Senate sessions in the Vice President's absence",
-      "Places Grassley third in the line of presidential succession"
-    ],
-    "who_it_affects": "This resolution mainly affects the formal leadership structure of the U.S. Senate and has little direct impact on everyday Americans, though it does determine who is third in line to the presidency.",
-    "topics": [
-      "Other"
-    ],
-    "status_plain_english": "This resolution was voted on and approved by every senator present on the same day it was introduced, with no changes made."
-  },
-  {
-    "id": "119-SRES-4",
-    "original_title": "A resolution notifying the President of the United States of the election of a President pro tempore.",
-    "plain_title": "Senate Officially Informs President Who Leads Senate Temporarily",
-    "plain_summary": "When the Vice President (who normally leads the Senate) is unavailable, a Senator is chosen to fill that role temporarily \u2014 this person is called the President pro tempore. This resolution is simply the Senate's official way of letting the President of the United States know that Senator Charles Grassley from Iowa has been chosen for that job. Think of it like sending a formal notification letter to the boss letting them know who's in charge while the usual leader is away.",
-    "key_provisions": [
-      "Officially announces Charles Grassley as President pro tempore of the Senate",
-      "Formally notifies the U.S. President of this leadership selection",
-      "Documents the Senate's choice for its temporary presiding officer"
-    ],
-    "who_it_affects": "This primarily affects the internal operations of the U.S. Senate and Senator Charles Grassley, who now holds a leadership role, but it has little direct impact on everyday Americans.",
-    "topics": [
-      "Other"
-    ],
-    "status_plain_english": "The Senate unanimously agreed to this resolution right away, meaning every Senator present approved it with no debate or changes needed."
-  },
-  {
-    "id": "119-HRES-11",
-    "original_title": "Fair Representation Amendment",
-    "plain_title": "Limit Presidential Power and Restore Congress's Authority Over Laws",
-    "plain_summary": "This resolution tells multiple House committees to look through all the laws they oversee and find places where the President and executive branch have too much freedom to decide how those laws are applied. The goal is to pull that power back to Congress, where elected representatives make the rules. All the suggestions from these committees would then be combined into one big bill called the 'Article One Restoration Act.'",
-    "key_provisions": [
-      "16 House committees must review laws in their areas",
-      "Committees identify where the executive branch has too much unchecked power",
-      "All recommendations get packaged into one new bill for Congress to vote on"
-    ],
-    "who_it_affects": "This bill would primarily affect how the President and federal agencies operate, potentially limiting their ability to make decisions independently and shifting more control back to elected members of Congress.",
-    "topics": [
-      "Other"
-    ],
-    "status_plain_english": "This resolution was sent to the House Committee on Rules, which means it is in early stages and has not been debated or voted on by the full House yet."
-  },
-  {
-    "id": "119-HRES-10",
-    "original_title": "HEALTH Act",
-    "plain_title": "Creating a New House Committee Dedicated Solely to Health Issues",
-    "plain_summary": "This bill would create a brand new official group in the House of Representatives called the Committee on Health, which would be specifically in charge of all health-related laws. Right now, health topics are split between two different committees, but this bill would move all of those responsibilities \u2014 like rules about the FDA, the CDC, and public health \u2014 into one focused committee. Think of it like reorganizing a school so that instead of two teachers each handling part of a subject, one dedicated teacher handles all of it.",
-    "key_provisions": [
-      "Creates a new standing House Committee on Health",
-      "Gives the new committee authority over the FDA, CDC, and public health laws",
-      "Removes health-related duties from two existing committees"
-    ],
-    "who_it_affects": "This bill mainly affects how Congress operates internally, but could eventually impact everyday Americans by changing how health laws and regulations are developed and overseen.",
-    "topics": [
-      "Healthcare"
-    ],
-    "status_plain_english": "This bill has been sent to the House Committee on Rules, which means it is in very early stages and has not been voted on yet."
-  },
-  {
-    "id": "119-SCONRES-2",
-    "original_title": "A concurrent resolution to provide for the counting on January 6, 2025, of the electoral votes for President and Vice President of the United States.",
-    "plain_title": "Setting the Date to Officially Count Presidential Election Votes",
-    "plain_summary": "After a presidential election, Congress must officially count and confirm the electoral votes to declare a winner. This resolution sets January 6, 2025 at 1:00 PM as the official date and time for Congress to do that counting. Think of it like scheduling the final, official announcement of who won the election.",
-    "key_provisions": [
-      "Sets January 6, 2025 at 1:00 PM as the official vote-counting time",
-      "Results must be delivered to the President of the Senate",
-      "The final count must be recorded in the official journals of Congress"
-    ],
-    "who_it_affects": "This affects all Americans because it is part of the formal process that officially confirms who will become the next President and Vice President of the United States.",
-    "topics": [
-      "Other"
-    ],
-    "status_plain_english": "This resolution was fully passed and agreed to by Congress without any objections."
-  },
-  {
-    "id": "119-SRES-15",
-    "original_title": "A resolution electing Gary B. Myrick, of Virginia, as Secretary for the Minority of the Senate.",
-    "plain_title": "Senate Picks Gary Myrick as Secretary for the Minority",
-    "plain_summary": "This resolution officially appoints Gary B. Myrick from Virginia to a staff leadership role in the U.S. Senate. The Secretary for the Minority is a senior administrative official who helps the minority party (whichever party has fewer Senate seats) run its day-to-day operations. Think of it like electing a head office manager for one side of the Senate.",
-    "key_provisions": [
-      "Officially elects Gary B. Myrick to the position",
-      "Fills the role of Secretary for the Minority of the Senate",
-      "Applies to the Senate's minority party operations"
-    ],
-    "who_it_affects": "This primarily affects Gary B. Myrick, who gets a new job, and the minority party senators who will rely on his administrative support.",
-    "topics": [
-      "Other"
-    ],
-    "status_plain_english": "This resolution was passed immediately and unanimously by the Senate with no changes needed \u2014 all senators agreed to it on the spot."
-  },
-  {
-    "id": "119-SRES-13",
-    "original_title": "A resolution notifying the House of Representatives of the election of a Sergeant at Arms and Doorkeeper of the Senate.",
-    "plain_title": "Senate Officially Announces Its New Security Chief to the House",
-    "plain_summary": "The Senate chose Jennifer A. Hemingway as its new Sergeant at Arms and Doorkeeper, which is basically the Senate's top security and operations officer. This resolution is just the Senate's formal way of letting the House of Representatives know about this appointment. Think of it like sending an official memo to a coworker in another department to keep them in the loop.",
-    "key_provisions": [
-      "Officially names Jennifer A. Hemingway as Sergeant at Arms and Doorkeeper of the Senate",
-      "Requires the Senate to formally inform the House of Representatives about this election",
-      "Completes the official communication process between the two chambers of Congress"
-    ],
-    "who_it_affects": "This mainly affects Senate operations and staff, since the Sergeant at Arms oversees Senate security and day-to-day functions, but it has little to no direct impact on everyday Americans.",
-    "topics": [
-      "Other"
-    ],
-    "status_plain_english": "The Senate passed this resolution and has officially sent notice to the House of Representatives, so it is essentially complete."
-  },
-  {
-    "id": "119-SRES-12",
-    "original_title": "A resolution notifying the President of the United States of the election of a Sergeant at Arms and Doorkeeper of the Senate.",
-    "plain_title": "Senate Officially Notifies President of New Sergeant at Arms",
-    "plain_summary": "This resolution is the Senate officially telling the President that they have chosen Jennifer A. Hemingway as their new Sergeant at Arms and Doorkeeper. The Sergeant at Arms is basically the Senate's head of security and operations \u2014 they manage safety, maintain order during Senate sessions, and oversee many day-to-day functions of the Senate building. This is a formal notification, not a new law, just an official announcement.",
-    "key_provisions": [
-      "Notifies the President that Jennifer A. Hemingway was elected to the role",
-      "Recognizes her official title as Sergeant at Arms and Doorkeeper of the Senate",
-      "Formally documents the Senate's internal leadership decision"
-    ],
-    "who_it_affects": "This primarily affects Senate operations and Jennifer A. Hemingway herself, who now officially holds one of the Senate's top administrative and security positions.",
-    "topics": [
-      "Other"
-    ],
-    "status_plain_english": "The Senate unanimously agreed to this resolution right away, meaning it passed immediately without any changes or debate."
-  },
-  {
-    "id": "119-SRES-11",
-    "original_title": "A resolution electing Jennifer A. Hemingway as Sergeant at Arms and Doorkeeper of the Senate.",
-    "plain_title": "Senate Appoints Jennifer Hemingway as Its Head of Security",
-    "plain_summary": "This resolution officially gives Jennifer A. Hemingway a top job in the U.S. Senate called Sergeant at Arms and Doorkeeper. This person is responsible for security, maintaining order in the Senate, and managing many of the Senate's day-to-day operations. Think of it like the Senate hiring a new head of security and building manager all in one.",
-    "key_provisions": [
-      "Officially elects Jennifer A. Hemingway to the position",
-      "Assigns her the role of Sergeant at Arms and Doorkeeper of the Senate",
-      "Applies to Jennifer Hemingway from the state of Georgia"
-    ],
-    "who_it_affects": "This decision primarily affects Jennifer A. Hemingway, who gains a powerful leadership role, and indirectly affects Senate staff and visitors since she will oversee Senate security and operations.",
-    "topics": [
-      "Other"
-    ],
-    "status_plain_english": "All senators agreed to this resolution without any debate or changes, so it passed immediately and is now finalized."
-  },
-  {
-    "id": "119-SRES-10",
-    "original_title": "A resolution notifying the House of Representatives of the election of a Secretary of the Senate.",
-    "plain_title": "Senate Notifies House About Their New Record-Keeper",
-    "plain_summary": "The Senate elected a person named Jackie Barber to serve as Secretary of the Senate, which is basically the Senate's chief administrator and record-keeper. This resolution is simply the Senate's official way of letting the House of Representatives know about this appointment. Think of it like one office sending a memo to another office to say, 'Hey, we have a new person in charge of our paperwork.'",
-    "key_provisions": [
-      "Jackie Barber was elected as Secretary of the Senate",
-      "The House of Representatives is officially notified of this election",
-      "A formal message is sent between the two chambers of Congress"
-    ],
-    "who_it_affects": "This mainly affects the internal operations of Congress, particularly staff and members who will now work with Jackie Barber as the new Secretary of the Senate.",
-    "topics": [
-      "Other"
-    ],
-    "status_plain_english": "The Senate passed this resolution and sent an official notice to the House of Representatives informing them of the decision."
-  },
-  {
-    "id": "119-SRES-9",
-    "original_title": "A resolution notifying the President of the United States of the election of a Secretary of the Senate.",
-    "plain_title": "Senate Officially Notifies the President of Their New Secretary",
-    "plain_summary": "The Senate elected a new person, Jackie Barber, to serve as the Secretary of the Senate. This resolution is basically an official announcement letting the President know about that election. The Secretary of the Senate is an important administrative official who manages records, paperwork, and other official duties for the Senate.",
-    "key_provisions": [
-      "Officially notifies the President that Jackie Barber was elected",
-      "Confirms Jackie Barber as the new Secretary of the Senate",
-      "Formalizes the Senate's internal administrative appointment"
-    ],
-    "who_it_affects": "This primarily affects the workings of the U.S. Senate and its staff, as Jackie Barber will now oversee important administrative and record-keeping duties for the Senate.",
-    "topics": [
-      "Other"
-    ],
-    "status_plain_english": "The Senate unanimously agreed to this resolution right away, so it has already been passed and sent to the President."
-  },
-  {
-    "id": "119-SRES-8",
-    "original_title": "A resolution electing Jackie Barber as Secretary of the Senate.",
-    "plain_title": "Senate Picks Jackie Barber as Their New Secretary",
-    "plain_summary": "This resolution officially gives Jackie Barber the job of Secretary of the Senate. The Secretary of the Senate is an important administrative official who manages the Senate's records, finances, and day-to-day paperwork. Think of this person as the head office manager for the entire U.S. Senate.",
-    "key_provisions": [
-      "Officially elects Jackie Barber to the role of Secretary of the Senate",
-      "Fills an important administrative leadership position in the Senate",
-      "Takes effect immediately upon agreement by all senators"
-    ],
-    "who_it_affects": "This primarily affects Senate staff and operations, as Jackie Barber will now oversee the Senate's administrative functions, records, and finances on behalf of all senators.",
-    "topics": [
-      "Other"
-    ],
-    "status_plain_english": "Every senator agreed to this resolution without any debate or changes, so it passed immediately and Jackie Barber is now officially the Secretary of the Senate."
-  },
-  {
-    "id": "119-SRES-7",
-    "original_title": "A resolution fixing the hour of daily meeting of the Senate.",
-    "plain_title": "Senate Sets Daily Start Time to Noon",
-    "plain_summary": "This resolution officially sets noon (12:00 PM) as the time the U.S. Senate starts its daily sessions. Think of it like a school deciding what time classes begin each day. It is a simple scheduling rule for how the Senate organizes its workday.",
-    "key_provisions": [
-      "Senate daily meetings start at 12:00 PM noon",
-      "Applies to all regular daily Senate sessions",
-      "Agreed upon by all senators with no changes needed"
-    ],
-    "who_it_affects": "This primarily affects U.S. senators and their staff, since it determines what time they are expected to show up and begin official Senate business each day.",
-    "topics": [
-      "Other"
-    ],
-    "status_plain_english": "This resolution was immediately agreed to by every senator without any debate or changes, so it is already in effect."
-  },
-  {
-    "id": "119-HR-110",
-    "original_title": "Small Business Prosperity Act of 2025",
-    "plain_title": "A Bill to Help Small Businesses Grow and Succeed",
-    "plain_summary": "This bill is called the Small Business Prosperity Act of 2025, but its full details have not been publicly summarized yet. Based on the title, it likely proposes new rules or tax benefits to help small businesses \u2014 like a local restaurant or family shop \u2014 make more money and stay open. Until more details are released, the exact changes it would make are unclear.",
-    "key_provisions": [
-      "Likely includes tax relief or incentives for small businesses",
-      "May reduce financial or regulatory burdens on small business owners",
-      "Details of specific provisions are not yet publicly available"
-    ],
-    "who_it_affects": "This bill would most likely affect small business owners across the country, potentially making it easier or cheaper for them to run their businesses.",
-    "topics": [
+      "Education",
       "Economy"
     ],
-    "status_plain_english": "This bill was recently introduced and has been sent to a House committee for review, meaning it has not been voted on yet."
+    "status_plain_english": "This bill was recently introduced in the Senate and has been sent to the Finance Committee, where senators will review it before deciding whether to move it forward."
   },
   {
-    "id": "119-HRES-14",
-    "original_title": "Electing Members to certain standing committees of the House of Representatives.",
-    "plain_title": "Choosing Which Representatives Serve on House Committees",
-    "plain_summary": "This resolution officially assigns certain members of the House of Representatives to specific standing committees. Committees are small groups of lawmakers who focus on particular topics, like the budget or education, and review bills before the full House votes on them. Think of it like assigning students to specific class groups where they'll do detailed work before sharing results with the whole class.",
+    "id": "119-S-3018",
+    "original_title": "A bill to permit visiting dignitaries and service members from Taiwan to display the flag of the Republic of China.",
+    "plain_title": "Allowing Taiwan's Flag to Be Displayed by Visitors and Soldiers",
+    "plain_summary": "This bill would allow officials and military members from Taiwan to show their country's flag (the Republic of China flag) during visits to the United States. Right now, there are restrictions on displaying Taiwan's flag in official settings because the U.S. has a complicated diplomatic relationship with Taiwan. This bill would make it legal for Taiwanese dignitaries and service members to openly display their national flag.",
     "key_provisions": [
-      "Officially elects members to their assigned House committees",
-      "Fills open seats on standing committees",
-      "Formalizes committee membership through a House vote"
+      "Taiwanese visiting officials can display their national flag",
+      "Taiwanese military members can display their national flag",
+      "Removes existing restrictions on showing Taiwan's flag in official U.S. settings"
     ],
-    "who_it_affects": "This primarily affects members of the House of Representatives, determining which lawmakers will serve on which committees and therefore which policy areas they will have direct influence over.",
-    "topics": [
-      "Other"
-    ],
-    "status_plain_english": "This resolution has been fully passed and approved by the House, with no further action needed."
-  },
-  {
-    "id": "119-HRES-15",
-    "original_title": "Rescinding the subpoenas issued by the January 6th Select Committee on September 23, 2021, October 6, 2021, and February 9, 2022, and withdrawing the recommendations finding Stephen K. Bannon, Mark Randall Meadows, Daniel Scavino, Jr., and Peter K. Navarro in contempt of Congress.",
-    "plain_title": "Canceling Subpoenas and Contempt Charges Against Four Trump Allies",
-    "plain_summary": "This bill would undo legal orders that forced four former Trump advisors \u2014 Steve Bannon, Mark Meadows, Peter Navarro, and Dan Scavino \u2014 to appear before the committee that investigated the January 6, 2021 Capitol attack. It would also erase the official findings that said these men broke the law by refusing to cooperate with Congress. Basically, it tries to wipe the slate clean for people who defied the investigation.",
-    "key_provisions": [
-      "Cancel the subpoenas requiring four Trump allies to testify",
-      "Drop the contempt of Congress findings against all four men",
-      "Officially close out the contempt proceedings with no consequences"
-    ],
-    "who_it_affects": "Steve Bannon, Mark Meadows, Peter Navarro, and Dan Scavino would benefit directly, as their legal obligations and contempt charges from the January 6th investigation would be erased.",
-    "topics": [
-      "Criminal Justice",
-      "Civil Rights",
-      "Other"
-    ],
-    "status_plain_english": "This bill was sent to two House committees for review and has not been voted on yet."
-  },
-  {
-    "id": "119-HRES-13",
-    "original_title": "Electing Members to certain standing committees of the House of Representatives.",
-    "plain_title": "Choosing Leaders for House of Representatives Committees",
-    "plain_summary": "This resolution officially selects the chairpersons who will lead 17 different committees in the House of Representatives. These committees are groups of lawmakers assigned to focus on specific topics, like agriculture, the military, or education. The chairs are the leaders who run the meetings and guide what each committee works on.",
-    "key_provisions": [
-      "Electing chairs for 17 House committees",
-      "Assigning leadership across major policy areas like defense, budget, and judiciary",
-      "Formalizing committee structure for the current session of Congress"
-    ],
-    "who_it_affects": "This resolution affects members of Congress and their staff, and indirectly affects all Americans since these committee chairs will shape what laws get debated and passed.",
-    "topics": [
-      "Other"
-    ],
-    "status_plain_english": "This resolution was fully approved by the House and is now considered final and complete."
-  },
-  {
-    "id": "119-HRES-18",
-    "original_title": "Expressing the sense of the House of Representatives that the Parthenon Marbles should be returned to Greece.",
-    "plain_title": "Should the UK Return Ancient Greek Sculptures to Greece?",
-    "plain_summary": "This resolution expresses that the U.S. House of Representatives believes the United Kingdom should give back famous ancient sculptures called the Parthenon Marbles to Greece. These sculptures were taken from a famous Greek temple called the Parthenon in the 1800s and have been kept in the British Museum in London ever since. Greece has long argued the sculptures belong back in their home country.",
-    "key_provisions": [
-      "Calls on the UK to negotiate with Greece about returning the sculptures",
-      "Acknowledges the sculptures were removed from Greece in the early 1800s",
-      "Supports the idea that the Parthenon Marbles belong back in Greece"
-    ],
-    "who_it_affects": "This resolution mainly affects the governments of the United Kingdom and Greece, as well as anyone who cares about cultural heritage and where historically significant artifacts belong.",
+    "who_it_affects": "This bill primarily affects Taiwanese government officials and military members visiting the U.S., allowing them to publicly display their flag without legal restrictions.",
     "topics": [
       "Foreign Policy"
     ],
-    "status_plain_english": "This resolution was just introduced and has been sent to the House Foreign Affairs Committee, where it will be reviewed before any further action is taken."
+    "status_plain_english": "This bill has been added to the Senate's waiting list of legislation to be considered, but has not yet been voted on."
   },
   {
-    "id": "119-HR-55",
-    "original_title": "To repeal the National Voter Registration Act of 1993.",
-    "plain_title": "Bill to End Easy Voter Registration Rules Across the U.S.",
-    "plain_summary": "This bill would get rid of a 1993 law that made it easier for Americans to register to vote. That old law required states to let people register to vote at the same time they get or renew a driver's license \u2014 often called 'Motor Voter.' Without that law, states could make their own rules about how and when people can sign up to vote, which could make it harder for some people to register.",
+    "id": "119-HR-5744",
+    "original_title": "Targeting Online Sales of Fentanyl Act",
+    "plain_title": "Cracking Down on Selling Fentanyl Online",
+    "plain_summary": "This bill targets people who sell fentanyl, a deadly drug, through online platforms and websites. It would create new rules or penalties to stop drug dealers from using the internet to distribute fentanyl, which has caused a massive overdose crisis in the U.S. Think of it like updating the law to catch drug dealers who use websites or apps instead of selling on street corners.",
     "key_provisions": [
-      "Eliminates the requirement to offer voter registration at DMV offices",
-      "Removes federal rules that standardized voter registration across states",
-      "Gives states full control over their own voter registration processes"
+      "New penalties for selling fentanyl through online platforms",
+      "Rules targeting websites or apps used to distribute fentanyl",
+      "Stronger enforcement tools against online drug trafficking"
     ],
-    "who_it_affects": "This bill would affect all eligible American voters, especially those who rely on simple registration options like signing up at the DMV, potentially making it harder for some people to get registered to vote.",
+    "who_it_affects": "This bill would impact online drug dealers who could face new criminal charges, tech platforms that host illegal drug sales, and communities hit hard by the fentanyl overdose epidemic.",
     "topics": [
+      "Criminal Justice",
+      "Technology",
+      "Healthcare"
+    ],
+    "status_plain_english": "This bill was recently introduced in Congress and has been sent to two committees for review, but has not been voted on yet."
+  },
+  {
+    "id": "119-HCONRES-29",
+    "original_title": "Expressing support for the withdrawal of the United States from the Paris Agreement.",
+    "plain_title": "Congress Shows Support for the U.S. Leaving the Paris Climate Deal",
+    "plain_summary": "This bill expresses that Congress supports the United States pulling out of the Paris Agreement, which is an international deal where countries promised to work together to reduce pollution and fight climate change. It doesn't create a new law on its own, but it sends a message about where Congress stands on the issue. Think of it like Congress officially saying 'we agree with leaving this global climate partnership.'",
+    "key_provisions": [
+      "Officially states Congressional support for exiting the Paris Agreement",
+      "Signals U.S. intention to step back from international climate commitments",
+      "Serves as a formal expression of Congress's position on climate policy"
+    ],
+    "who_it_affects": "This bill would affect all Americans, especially those in industries like coal, oil, and manufacturing that benefit from fewer climate regulations, as well as communities already dealing with the effects of climate change who rely on global cooperation to address it.",
+    "topics": [
+      "Climate",
+      "Foreign Policy"
+    ],
+    "status_plain_english": "This bill was recently introduced and sent to the House Foreign Affairs Committee, where members will review it before deciding whether to move it forward \u2014 it has not been voted on yet."
+  },
+  {
+    "id": "119-S-2943",
+    "original_title": "ACE Veterans Act",
+    "plain_title": "Helping Veterans Access College and Education Benefits",
+    "plain_summary": "The ACE Veterans Act is designed to make it easier for military veterans to use their education benefits when going to college or vocational school. It likely aims to reduce barriers veterans face when applying their military training and experience toward college credits or certifications. The exact details are still being reviewed by Congress, but the goal is to help veterans transition more smoothly into civilian education and careers.",
+    "key_provisions": [
+      "Expanding education benefit access for veterans",
+      "Helping veterans earn college credit for military training",
+      "Improving support programs for student veterans"
+    ],
+    "who_it_affects": "This bill would primarily affect U.S. military veterans who want to pursue higher education or job training after leaving the armed forces, potentially making it easier and more affordable for them to attend college.",
+    "topics": [
+      "Education",
+      "Other"
+    ],
+    "status_plain_english": "This bill was recently introduced in the Senate and sent to the Veterans' Affairs Committee for review, meaning it has not been voted on yet."
+  },
+  {
+    "id": "119-SRES-542",
+    "original_title": "A resolution commemorating the 50th anniversary of Southeast Asian refugee resettlement and the many contributions and sacrifices of Southeast Asian Americans to the United States.",
+    "plain_title": "Honoring 50 Years of Southeast Asian Refugees Coming to America",
+    "plain_summary": "This resolution officially recognizes the 50th anniversary of when large numbers of refugees from Southeast Asian countries like Vietnam, Cambodia, and Laos began resettling in the United States after the Vietnam War. It celebrates the contributions and sacrifices these communities have made to American society over the past five decades. Unlike a regular bill, this is a symbolic resolution, meaning it does not create any new laws or programs \u2014 it simply expresses the Senate's respect and recognition.",
+    "key_provisions": [
+      "Marks the 50th anniversary of Southeast Asian refugee resettlement",
+      "Acknowledges contributions of Southeast Asian Americans to the U.S.",
+      "Honors the hardships and sacrifices of refugee communities"
+    ],
+    "who_it_affects": "This resolution highlights Southeast Asian American communities \u2014 including Vietnamese, Cambodian, Laotian, and Hmong Americans \u2014 by formally recognizing their history and impact on the United States.",
+    "topics": [
+      "Immigration",
+      "Civil Rights"
+    ],
+    "status_plain_english": "This resolution was recently introduced and has been sent to the Senate Judiciary Committee, where members will review it before deciding whether to move it forward."
+  },
+  {
+    "id": "119-HR-2973",
+    "original_title": "Coast Guard Combat-Injured Tax Fairness Act",
+    "plain_title": "Fair Tax Rules for Injured Coast Guard Members",
+    "plain_summary": "This bill would make sure Coast Guard members who were injured in combat get the same tax breaks that other military branches already receive. Right now, combat-injured Coast Guard veterans may have had taxes wrongly taken from their disability payments. This bill would fix that and potentially give them refunds for money that should never have been taxed.",
+    "key_provisions": [
+      "Stop taxing disability pay for combat-injured Coast Guard members",
+      "Align Coast Guard tax rules with other military branches",
+      "Allow refunds for taxes incorrectly collected in the past"
+    ],
+    "who_it_affects": "This bill would directly benefit Coast Guard service members and veterans who suffered combat injuries and may have been overtaxed on their disability payments.",
+    "topics": [
+      "Economy",
+      "Other"
+    ],
+    "status_plain_english": "This bill has been sent to a small group of lawmakers who specialize in Coast Guard issues, and they will decide whether to move it forward."
+  },
+  {
+    "id": "119-HR-5622",
+    "original_title": "National Gun Violence Research Act of 2025",
+    "plain_title": "A Bill to Fund and Expand Research on Gun Violence",
+    "plain_summary": "This bill would allow the government to spend money studying gun violence \u2014 something that has been heavily restricted for decades. It would create a new research program and give out grants so scientists can study why gun violence happens, who it affects, and how to prevent it. Think of it like funding cancer research, but for gun violence instead.",
+    "key_provisions": [
+      "Allow health department funds to be used for gun violence research",
+      "Create a new National Gun Violence Research Program",
+      "Give out competitive grants to scientists studying gun violence"
+    ],
+    "who_it_affects": "Researchers, public health officials, and communities affected by gun violence would be impacted, as this bill would open up funding and data to better understand and potentially reduce gun violence.",
+    "topics": [
+      "Healthcare",
+      "Criminal Justice"
+    ],
+    "status_plain_english": "This bill was recently introduced in Congress and has been sent to multiple committees for review, but has not been voted on yet."
+  },
+  {
+    "id": "119-HRES-342",
+    "original_title": "Recognizing the history of the drug diethylstilbestrol and the harm it has caused, and for other purposes.",
+    "plain_title": "Acknowledging the Harmful History of the Drug DES",
+    "plain_summary": "This bill officially recognizes the dangerous history of diethylstilbestrol (DES), a drug given to pregnant women from the 1940s to 1970s that was later found to cause serious health problems in their children and grandchildren. The drug was prescribed to prevent miscarriages but ended up causing cancers, reproductive issues, and other health conditions in those exposed to it before birth. By passing this resolution, Congress would formally acknowledge this harm and the people it affected.",
+    "key_provisions": [
+      "Formally recognizing the harmful history of the drug DES",
+      "Acknowledging health damage suffered by DES-exposed individuals and their descendants",
+      "Raising awareness about ongoing health risks for DES survivors and their families"
+    ],
+    "who_it_affects": "This bill primarily affects people who were exposed to DES before birth, their children, and families who have dealt with health problems caused by the drug \u2014 potentially millions of Americans.",
+    "topics": [
+      "Healthcare",
       "Civil Rights"
     ],
     "status_plain_english": "This bill was recently introduced and sent to a House committee for review, meaning it has not been voted on yet."
   },
   {
-    "id": "119-HR-123",
-    "original_title": "Improving Science in Chemical Assessments Act",
-    "plain_title": "Making Chemical Safety Reviews More Organized and Efficient",
-    "plain_summary": "This bill changes which offices inside the EPA are responsible for studying how dangerous certain chemicals are to human health. Right now, one specific EPA program handles these chemical safety studies, but this bill would shift that work to other EPA departments that specialize in those chemicals. It also creates a new committee to make sure different EPA offices aren't accidentally doing the same work twice.",
+    "id": "119-S-3210",
+    "original_title": "EXPERTS Act of 2025",
+    "plain_title": "A Law to Use Outside Experts to Improve Government Work",
+    "plain_summary": "The EXPERTS Act of 2025 would create a program allowing the federal government to bring in outside specialists and professionals to help solve complex problems and improve how government agencies operate. Think of it like hiring a consultant who knows a lot about a specific topic, such as cybersecurity or engineering, to advise government workers. The goal is to make the government more efficient by using knowledge from people outside of traditional government jobs.",
     "key_provisions": [
-      "Shifts chemical safety studies to specialized EPA program offices",
-      "Removes sole responsibility from the Integrated Risk Information System program",
-      "Creates a steering committee to prevent duplicate work across EPA offices"
+      "Allows government agencies to recruit outside experts temporarily",
+      "Sets rules for how outside specialists can be brought in and used",
+      "Aims to improve government efficiency using real-world expertise"
     ],
-    "who_it_affects": "This bill primarily affects EPA scientists and staff who conduct chemical safety reviews, and indirectly affects the general public who relies on those reviews to know which chemicals in their environment are dangerous.",
+    "who_it_affects": "This bill would affect federal government agencies and outside professionals or specialists who might be recruited to advise or work with those agencies on specific projects.",
+    "topics": [
+      "Economy",
+      "Technology",
+      "Other"
+    ],
+    "status_plain_english": "This bill was recently introduced in the Senate and has been sent to a committee for review, but it has not been voted on yet."
+  },
+  {
+    "id": "119-HR-8026",
+    "original_title": "CLEAR Act",
+    "plain_title": "The CLEAR Act: Details Unknown Without Official Summary",
+    "plain_summary": "The CLEAR Act has been introduced in Congress, but no official summary is available yet, so the specific details of what it would do are unclear. Based on its referral to the House Judiciary Committee, it likely deals with legal or law-related topics. More information will become available as the bill moves through the legislative process.",
+    "key_provisions": [
+      "Details not yet publicly available",
+      "Referred to the Judiciary Committee for review",
+      "Full text needed to identify specific provisions"
+    ],
+    "who_it_affects": "Without an official summary, it is unclear exactly who this bill would affect, but its referral to the Judiciary Committee suggests it may impact people involved in the legal or justice system.",
+    "topics": [
+      "Other"
+    ],
+    "status_plain_english": "This bill was just introduced in the House of Representatives and has been sent to the Judiciary Committee for review, but it has not been voted on yet."
+  },
+  {
+    "id": "119-HR-6567",
+    "original_title": "Federal Food Administration Act of 2025",
+    "plain_title": "Creating a New Federal Agency to Oversee the Food Supply",
+    "plain_summary": "This bill would create a new federal agency called the Federal Food Administration to oversee the safety and regulation of the food Americans eat. Right now, food oversight is split between multiple agencies like the FDA and USDA, which can cause confusion and gaps in safety. This new agency would bring food regulation under one roof to make it more organized and effective.",
+    "key_provisions": [
+      "Establishing a new standalone federal food safety agency",
+      "Consolidating food oversight currently split across multiple agencies",
+      "Setting up new administrative structure for food regulation"
+    ],
+    "who_it_affects": "This bill would affect all Americans who buy and eat food, as well as farmers, food manufacturers, grocery stores, and restaurant chains that would be regulated under the new agency.",
     "topics": [
       "Healthcare",
-      "Climate",
+      "Economy",
       "Other"
     ],
-    "status_plain_english": "This bill was recently introduced in Congress and has been sent to two committees for review, but has not been voted on yet."
+    "status_plain_english": "This bill was recently introduced in the House of Representatives and has been sent to a committee for review, but it has not been debated or voted on yet."
   },
   {
-    "id": "119-HRES-28",
-    "original_title": "BRIDGE to Congress Resolution",
-    "plain_title": "Letting Witnesses Testify Remotely in Congress Without Special Approval",
-    "plain_summary": "Right now, if someone wants to testify at a congressional committee hearing from a remote location (like via video call), the committee chairperson has to give special permission first. This resolution would remove that requirement, making it easier for witnesses to participate in hearings without needing the chair's approval. For example, an expert living far from Washington D.C. could testify virtually without jumping through extra hoops.",
+    "id": "119-HR-6221",
+    "original_title": "Fostering the Future for American Children and Families Act",
+    "plain_title": "Supporting American Children and Families for a Better Future",
+    "plain_summary": "This bill aims to improve support systems for children and families in the United States, though the specific details have not yet been officially summarized. It likely includes measures to help with child welfare, family assistance programs, or related services. Until the full text is reviewed, the exact changes it would make remain unclear.",
     "key_provisions": [
-      "Removes the requirement for committee chairs to approve remote testimony",
-      "Makes remote witness participation easier and more accessible",
-      "Changes existing House of Representatives rules on committee proceedings"
+      "Support for children and family welfare programs",
+      "Potential changes to education or workforce-related family services",
+      "Possible updates to financial assistance for families"
     ],
-    "who_it_affects": "Witnesses such as experts, advocates, and ordinary citizens who want to testify before congressional committees would find it easier to participate remotely without needing special permission from the committee chair.",
+    "who_it_affects": "This bill would likely impact American children, parents, and families \u2014 especially those who rely on government assistance programs for education, childcare, or financial support.",
     "topics": [
+      "Education",
+      "Economy",
       "Other"
     ],
-    "status_plain_english": "This resolution was just introduced and sent to the House Committee on Rules, where it will be reviewed before any further action is taken."
+    "status_plain_english": "This bill was recently introduced in Congress and has been sent to two committees for review, but it has not been voted on yet."
   },
   {
-    "id": "119-HJRES-16",
-    "original_title": "Proposing an amendment to the Constitution of the United States extending the right to vote to citizens sixteen years of age or older.",
-    "plain_title": "Letting 16 and 17 Year Olds Vote in Elections",
-    "plain_summary": "This proposal would change the U.S. Constitution to allow citizens who are 16 or 17 years old to vote in elections, including for president, Congress, and local offices. Right now, you have to be at least 18 to vote anywhere in the U.S. If this passed, millions of high schoolers could vote for the first time.",
+    "id": "119-HR-5495",
+    "original_title": "SEVER Act",
+    "plain_title": "A Bill to Cut Ties with a Foreign Country or Organization",
+    "plain_summary": "The SEVER Act is a bill whose full details have not yet been publicly summarized, but its name suggests it would legally cut off or disconnect the U.S. from a specific foreign country, group, or agreement. This could mean ending financial ties, diplomatic relationships, or shared programs. Think of it like officially unfriending a country on a national level.",
     "key_provisions": [
-      "Lowers the minimum voting age from 18 to 16",
-      "Applies to all U.S. citizens who are at least 16 years old",
-      "Would require a change to the U.S. Constitution itself"
+      "Severing or ending a specific U.S. relationship or agreement",
+      "Possibly cutting off funding or cooperation with a foreign entity",
+      "Setting legal rules for how and when the separation takes effect"
     ],
-    "who_it_affects": "16 and 17 year olds across the United States would gain the right to vote in elections for the first time, giving them a direct say in the laws and leaders that affect their lives.",
-    "topics": [
-      "Civil Rights"
-    ],
-    "status_plain_english": "This bill was just sent to a House committee for review and has not been voted on yet."
-  },
-  {
-    "id": "119-HRES-22",
-    "original_title": "Electing Members to certain standing committees of the House of Representatives.",
-    "plain_title": "Choosing House Members to Serve on Four Key Committees",
-    "plain_summary": "This resolution officially assigns certain members of the House of Representatives to four important committees. These committees handle big topics like government spending, energy, banking, and taxes. Think of it like assigning students to specific clubs or teams where they will focus their work.",
-    "key_provisions": [
-      "Assigns members to the Appropriations Committee, which controls government spending",
-      "Assigns members to the Energy and Commerce Committee, which oversees energy and business rules",
-      "Assigns members to the Financial Services and Ways and Means Committees, which handle banking and taxes"
-    ],
-    "who_it_affects": "This primarily affects Members of Congress, determining which representatives will have decision-making power over major issues like the federal budget, energy policy, and taxes.",
-    "topics": [
-      "Other"
-    ],
-    "status_plain_english": "This resolution has been fully passed and finalized, with no further action needed."
-  },
-  {
-    "id": "119-SRES-16",
-    "original_title": "A resolution to constitute the majority party's membership on certain committees for the One Hundred Nineteenth Congress, or until their successors are chosen.",
-    "plain_title": "Republicans Pick Their Senate Committee Members and Leaders",
-    "plain_summary": "This resolution officially assigns Republican senators to their spots on 20 different Senate committees and names who will be in charge of each one. Senate committees are like specialized teams that study and work on specific topics \u2014 like farming, the military, or healthcare \u2014 before the full Senate votes on related bills. Think of it as setting the starting lineup for the Republican team in the Senate.",
-    "key_provisions": [
-      "Assigns Republican members to 20 Senate committees",
-      "Names a chair (leader) for each committee",
-      "Sets up committee rosters for the 119th Congress"
-    ],
-    "who_it_affects": "This mainly affects Republican senators, who are now officially assigned to specific committees where they will review laws related to topics like healthcare, the military, farming, and more.",
-    "topics": [
-      "Other"
-    ],
-    "status_plain_english": "This resolution was immediately approved by the full Senate without any debate or changes, meaning all senators agreed to it on the spot."
-  },
-  {
-    "id": "119-SRES-19",
-    "original_title": "A resolution honoring the life and legacy of President Jimmy Carter and commending President Jimmy Carter for his life-long career of public service, humanitarian leadership, diplomacy, and courageous advocacy.",
-    "plain_title": "Honoring Former President Jimmy Carter's Life and Legacy",
-    "plain_summary": "This resolution is Congress's official way of paying tribute to former President Jimmy Carter after his death. It recognizes his decades of work both as president and as a private citizen doing things like building homes for the poor and promoting peace around the world. It also expresses condolences to his family.",
-    "key_provisions": [
-      "Officially mourns the death of former President Jimmy Carter",
-      "Extends sympathy to the Carter family on behalf of the Senate",
-      "Honors his contributions to the United States through public service and humanitarian work"
-    ],
-    "who_it_affects": "This resolution primarily honors the memory of Jimmy Carter and offers comfort to his family, but it also serves as a formal recognition for all Americans of his contributions to the country.",
-    "topics": [
-      "Other"
-    ],
-    "status_plain_english": "This resolution was voted on and approved by the entire Senate in one step, with every senator agreeing to pass it."
-  },
-  {
-    "id": "119-HR-94",
-    "original_title": "To terminate the designation of the Islamic Republic of Pakistan as a major non-NATO ally, and for other purposes.",
-    "plain_title": "Removing Pakistan's Special Military Partnership Status with the U.S.",
-    "plain_summary": "This bill would take away Pakistan's special status as a close U.S. military partner, which currently gives Pakistan access to extra American weapons and the ability to work on defense projects with the U.S. Pakistan could earn this status back, but only if it proves it has taken serious action against a dangerous terrorist group called the Haqqani Network, which is connected to the Taliban.",
-    "key_provisions": [
-      "Remove Pakistan's major non-NATO ally designation immediately",
-      "Block the President from restoring Pakistan's status without proof of action against terrorists",
-      "Require Pakistan to arrest and prosecute Haqqani Network leaders to regain status"
-    ],
-    "who_it_affects": "This bill would primarily affect the Pakistani government and military, U.S. defense contractors who work with Pakistan, and indirectly, people in the region who are impacted by terrorism and U.S. foreign policy decisions.",
+    "who_it_affects": "This bill would likely affect U.S. government agencies, American businesses operating abroad, and possibly foreign nationals or governments depending on which relationship is being cut.",
     "topics": [
       "Foreign Policy"
     ],
-    "status_plain_english": "This bill was sent to a House committee for review and has not been voted on yet."
+    "status_plain_english": "This bill was recently introduced and sent to the House Judiciary Committee to be reviewed, but it has not been voted on yet."
   },
   {
-    "id": "119-HR-93",
-    "original_title": "Stop Imposing Woke Ideology Abroad Act",
-    "plain_title": "Bill to Cut Funding for U.S. Racial Equity Work Overseas",
-    "plain_summary": "This bill would stop the U.S. government from spending money on a State Department official whose job is to fight racism and discrimination around the world. It would also block funding for the State Department's plan to address racial fairness in how it handles foreign affairs. Basically, it removes two programs focused on racial equity from the U.S. government's international work.",
+    "id": "119-HR-5793",
+    "original_title": "Eastern Flank Strategic Partnership Act of 2025",
+    "plain_title": "Strengthening U.S. Partnerships with Countries on Russia's Border",
+    "plain_summary": "This bill focuses on building stronger military and diplomatic relationships between the U.S. and countries located on the eastern edge of NATO, such as Poland, the Baltic states, and Romania \u2014 countries that border or are close to Russia. It likely involves increased military cooperation, aid, or strategic planning to help these allies feel more secure. The goal is to deter potential aggression from Russia by showing a united front.",
     "key_provisions": [
-      "Ban funding for the Special Representative for Racial Equity and Justice",
-      "Ban funding for the State Department's Equity Action Plan",
-      "Applies to all federal dollars spent on these programs"
+      "Strengthening U.S. military cooperation with eastern NATO allies",
+      "Providing strategic support to countries near Russia's border",
+      "Developing long-term partnership plans with eastern European nations"
     ],
-    "who_it_affects": "This bill would affect State Department employees and officials working on racial equity issues abroad, as well as communities around the world that benefit from U.S. efforts to combat systemic racism and discrimination internationally.",
+    "who_it_affects": "This bill would primarily affect U.S. military personnel who may be deployed to eastern Europe, allied nations near Russia who would receive more U.S. support, and American taxpayers who fund foreign military and diplomatic programs.",
     "topics": [
-      "Foreign Policy",
-      "Civil Rights"
+      "Foreign Policy"
     ],
-    "status_plain_english": "This bill was introduced and sent to the House Committee on Foreign Affairs, meaning a small group of representatives will review it before the full House can vote on it."
+    "status_plain_english": "This bill was recently introduced in Congress and has been sent to two committees \u2014 Foreign Affairs and Armed Services \u2014 to be reviewed before any votes can happen."
   },
   {
-    "id": "119-HRES-29",
-    "original_title": "Recognizing the 125th anniversary of organized Okinawan immigration to the United States.",
-    "plain_title": "Honoring 125 Years of Okinawan Americans in the United States",
-    "plain_summary": "This resolution officially recognizes and celebrates the 125th anniversary of people from Okinawa, Japan first immigrating to the United States. It honors the history and contributions that Okinawan Americans have made to this country over the past 125 years. It also encourages all Americans to recognize and celebrate this milestone.",
+    "id": "119-HR-7147",
+    "original_title": "Homeland Security and Further Additional Continuing Appropriations Act, 2026.",
+    "plain_title": "Funding Bill for Homeland Security Agencies in 2026",
+    "plain_summary": "This bill sets the budget for the Department of Homeland Security, which is the government agency responsible for keeping America safe. It gives money to agencies like Border Patrol, ICE, TSA (the people who check you at airports), FEMA (which helps after disasters), and the Coast Guard. The bill also includes rules about how that money can and cannot be spent.",
     "key_provisions": [
-      "Officially recognizes the 125th anniversary of Okinawan immigration to the U.S.",
-      "Honors the historic contributions of Okinawan Americans",
-      "Encourages Americans to celebrate this anniversary"
+      "Funds Border Patrol and immigration enforcement agencies",
+      "Provides budget for airport security and the Coast Guard",
+      "Allocates money for FEMA disaster response and cybersecurity"
     ],
-    "who_it_affects": "This resolution primarily honors Okinawan Americans and their communities by formally recognizing their history and contributions to the United States.",
+    "who_it_affects": "This bill affects nearly all Americans \u2014 travelers going through airport security, people affected by natural disasters who need FEMA help, immigrants navigating the system, and communities that rely on cybersecurity protections.",
     "topics": [
       "Immigration",
+      "Other"
+    ],
+    "status_plain_english": "This bill was passed by Congress and signed into law, meaning it is now officially the law of the land."
+  },
+  {
+    "id": "119-HRES-341",
+    "original_title": "Expressing support for honoring Earth Day, and for other purposes.",
+    "plain_title": "Congress Shows Support for Celebrating Earth Day",
+    "plain_summary": "This bill is a formal statement from Congress expressing support for Earth Day, which is celebrated every April 22nd to raise awareness about protecting the environment. It does not create new laws or spend money, but instead acts like an official shout-out recognizing the importance of caring for our planet. Think of it like Congress signing a birthday card for the Earth.",
+    "key_provisions": [
+      "Officially honoring and recognizing Earth Day",
+      "Expressing congressional support for environmental awareness",
+      "Likely encouraging environmental protection efforts at home and abroad"
+    ],
+    "who_it_affects": "This bill is mostly symbolic and would affect all Americans by officially recognizing Earth Day, while also signaling to other countries that the U.S. values environmental protection.",
+    "topics": [
+      "Climate"
+    ],
+    "status_plain_english": "This bill was recently introduced and sent to two congressional committees for review, but it has not been voted on yet."
+  },
+  {
+    "id": "119-HRES-343",
+    "original_title": "Supporting the goals and ideals of San Jacinto Day in recognition of April 21, 1836, the date on which General Sam Houston and the Texan Army defeated the Mexican Army winning Texas independence from Mexico.",
+    "plain_title": "Honoring the Day Texas Won Its Independence in 1836",
+    "plain_summary": "This bill asks Congress to officially recognize and celebrate April 21st as San Jacinto Day, the anniversary of the 1836 battle where Texan forces led by Sam Houston defeated the Mexican Army and won Texas its independence. It does not create a new national holiday or change any laws \u2014 it simply expresses Congress's support for the day's historical importance. Think of it like Congress giving an official thumbs-up to a historical commemoration that Texans already celebrate.",
+    "key_provisions": [
+      "Official congressional recognition of April 21 as San Jacinto Day",
+      "Honoring General Sam Houston and the Texan Army's victory in 1836",
+      "Supporting the goals and traditions tied to this historical anniversary"
+    ],
+    "who_it_affects": "This bill primarily affects Texans and history enthusiasts by giving national recognition to a battle that is already celebrated in Texas, though it does not change anything in daily life for most Americans.",
+    "topics": [
+      "Other"
+    ],
+    "status_plain_english": "This bill was recently introduced and sent to a House committee for review, meaning it has not been voted on yet and still has a long way to go before it could become law."
+  },
+  {
+    "id": "119-HCONRES-76",
+    "original_title": "Recognizing the visionary leadership of Chief Richard LaMunyon and the profound global impact of the Law Enforcement Torch Run for Special Olympics.",
+    "plain_title": "Honoring a Police Chief Who Helped Special Olympics Athletes Worldwide",
+    "plain_summary": "This bill is a formal recognition from Congress honoring Chief Richard LaMunyon for his leadership in creating the Law Enforcement Torch Run, a program where police officers raise money and awareness for Special Olympics. The Law Enforcement Torch Run has grown into a worldwide effort that has raised hundreds of millions of dollars to support athletes with intellectual disabilities. This bill doesn't create new laws \u2014 it's essentially Congress officially saying 'thank you' and acknowledging the impact of this program.",
+    "key_provisions": [
+      "Formally recognizes Chief Richard LaMunyon's leadership and vision",
+      "Acknowledges the global impact of the Law Enforcement Torch Run",
+      "Honors the program's role in supporting Special Olympics athletes worldwide"
+    ],
+    "who_it_affects": "This bill mainly honors law enforcement officers who participate in the Torch Run and celebrates Special Olympics athletes with intellectual disabilities who benefit from the fundraising and awareness the program generates.",
+    "topics": [
       "Civil Rights",
       "Other"
     ],
-    "status_plain_english": "This resolution was just introduced and has been sent to a House committee for review, where it will be examined before any further votes can take place."
+    "status_plain_english": "This bill was introduced and sent to two congressional committees for review, but has not yet been voted on."
   },
   {
-    "id": "119-HRES-31",
-    "original_title": "Electing Members to certain standing committees of the House of Representatives.",
-    "plain_title": "Choosing Which Representatives Serve on Key House Committees",
-    "plain_summary": "This resolution officially assigns certain members of the House of Representatives to four important committees. These committees handle topics like the military, courts and laws, government oversight, and veterans' benefits. Think of it like assigning students to specific class groups where they'll focus on particular subjects.",
+    "id": "119-HRES-1107",
+    "original_title": "Memorializing Rev. Jesse Jackson by flying the flag of the United States at halfstaff.",
+    "plain_title": "Flying the U.S. Flag at Half-Staff to Honor Rev. Jesse Jackson",
+    "plain_summary": "This bill would honor the memory of Reverend Jesse Jackson, a famous civil rights leader and activist, by ordering the U.S. flag to be flown at half-staff. Flying a flag at half-staff is a traditional way the government shows respect and mourning for an important person who has passed away. It is a symbolic gesture meant to recognize his contributions to the country.",
     "key_provisions": [
-      "Assigns members to the Armed Services Committee, which oversees the military",
-      "Assigns members to the Judiciary Committee, which deals with laws and courts",
-      "Assigns members to the Oversight, Veterans' Affairs Committees"
+      "Order U.S. flags to be flown at half-staff",
+      "Honor the life and legacy of Rev. Jesse Jackson",
+      "Recognize Jackson's impact on American civil rights"
     ],
-    "who_it_affects": "This mainly affects the members of Congress who are being assigned to these committees, as well as the Americans whose issues those committees handle, like veterans and military families.",
+    "who_it_affects": "This bill would affect all Americans symbolically, as flags at government buildings nationwide would be lowered in honor of Rev. Jesse Jackson.",
+    "topics": [
+      "Civil Rights",
+      "Other"
+    ],
+    "status_plain_english": "This bill was recently introduced in Congress and has been sent to the House Judiciary Committee, where members will review it before deciding whether to move it forward."
+  },
+  {
+    "id": "119-HR-9577",
+    "original_title": "COCOA-VIP Act",
+    "plain_title": "Protecting Voting Rights for People with Disabilities",
+    "plain_summary": "The COCOA-VIP Act appears to focus on improving voting access and participation for people with disabilities. It likely aims to remove barriers that make it hard for disabled Americans to cast their ballots. Think of it as a set of rules to make sure someone who uses a wheelchair or has a visual impairment can vote just as easily as anyone else.",
+    "key_provisions": [
+      "Improving accessibility at polling locations for disabled voters",
+      "Ensuring voting materials are available in accessible formats",
+      "Strengthening protections for voters with physical or cognitive disabilities"
+    ],
+    "who_it_affects": "This bill would primarily affect Americans with disabilities by making it easier for them to participate in elections, and would also impact election officials who would need to meet new accessibility requirements.",
+    "topics": [
+      "Civil Rights",
+      "Other"
+    ],
+    "status_plain_english": "This bill was just introduced in the House of Representatives and has been sent to a committee for review, meaning it has not been voted on yet."
+  },
+  {
+    "id": "119-HRES-339",
+    "original_title": "Supporting the Second Amendment's guarantee that the right of the people to keep and bear arms shall not be infringed, and commending President Trump and his administration as they work to protect Second Amendment freedoms by reviewing and eliminating any of the Biden administration's infringements on American's constitutional freedoms.",
+    "plain_title": "Congress Supports Gun Rights and Praises Trump's Gun Policies",
+    "plain_summary": "This bill is a statement of support for the Second Amendment, which is the part of the Constitution that gives Americans the right to own and carry guns. It also praises President Trump and his administration for reviewing and undoing gun-related rules made during the Biden presidency. The bill doesn't create new laws itself, but signals where Congress stands on gun rights.",
+    "key_provisions": [
+      "Declares support for the Second Amendment right to own and carry guns",
+      "Praises Trump administration for protecting gun rights",
+      "Calls for removal of Biden-era gun restrictions"
+    ],
+    "who_it_affects": "This bill mainly affects gun owners and people interested in gun policy, signaling that Congress supports fewer restrictions on purchasing and owning firearms.",
+    "topics": [
+      "Civil Rights",
+      "Criminal Justice"
+    ],
+    "status_plain_english": "This bill was recently introduced and sent to two congressional committees for review, meaning it has not been voted on yet."
+  },
+  {
+    "id": "119-HRES-1109",
+    "original_title": "Supporting the goals and ideals of National Women and Girls HIV/AIDS Awareness Day.",
+    "plain_title": "Supporting Awareness Day for HIV in Women and Girls",
+    "plain_summary": "This resolution is Congress's way of officially showing support for National Women and Girls HIV/AIDS Awareness Day, which happens every year. It acknowledges progress that has been made in fighting HIV both in the U.S. and around the world. It also calls on people and organizations to do more to protect women and girls, who can be especially vulnerable to getting HIV.",
+    "key_provisions": [
+      "Official support for National Women and Girls HIV/AIDS Awareness Day",
+      "Recognition of progress made in fighting the HIV epidemic",
+      "Call for more efforts to protect women and girls from HIV"
+    ],
+    "who_it_affects": "This resolution primarily affects women and girls, especially those at higher risk of HIV, by raising awareness and encouraging more resources and attention toward their health needs.",
+    "topics": [
+      "Healthcare",
+      "Civil Rights",
+      "Foreign Policy"
+    ],
+    "status_plain_english": "This resolution was recently introduced and has been sent to two House committees to review, but has not been voted on yet."
+  },
+  {
+    "id": "119-HR-9531",
+    "original_title": "Preventing Stomach Cancer in Our Nation\u2019s Heroes Act",
+    "plain_title": "Helping Veterans Avoid a Deadly Type of Stomach Cancer",
+    "plain_summary": "This bill aims to help military veterans prevent stomach cancer, which can be caused by a bacterial infection called H. pylori that some veterans may have been exposed to during their service. It likely involves screening, testing, or treatment programs specifically for veterans. The goal is to catch or prevent this cancer early in people who served our country.",
+    "key_provisions": [
+      "screening or testing veterans for H. pylori bacteria",
+      "providing treatment to reduce stomach cancer risk",
+      "creating or expanding health programs for veterans"
+    ],
+    "who_it_affects": "This bill would primarily affect U.S. military veterans, potentially giving them access to cancer prevention screenings and treatments they may not currently receive.",
+    "topics": [
+      "Healthcare"
+    ],
+    "status_plain_english": "This bill was recently introduced in the House of Representatives and sent to the Armed Services Committee for review, but has not been voted on yet."
+  },
+  {
+    "id": "119-HR-9554",
+    "original_title": "Senior Accessible Housing Tax Credit Act of 2026",
+    "plain_title": "Tax Credits to Build More Affordable Homes for Senior Citizens",
+    "plain_summary": "This bill would create a special tax credit \u2014 basically a discount on taxes \u2014 for builders or developers who create housing specifically designed to be accessible and affordable for older Americans. For example, a company that builds an apartment complex with ramps, grab bars, and wide doorways for seniors could pay less in taxes as a reward. The goal is to encourage more of this type of housing to be built since many seniors struggle to find safe, affordable places to live.",
+    "key_provisions": [
+      "Tax incentives for developers who build senior-friendly housing",
+      "Housing must meet accessibility standards like ramps and wide doorways",
+      "Encourages more affordable options for elderly Americans"
+    ],
+    "who_it_affects": "This bill would primarily benefit senior citizens who need accessible and affordable housing, while also giving financial advantages to builders and developers who construct that type of housing.",
+    "topics": [
+      "Economy",
+      "Healthcare",
+      "Other"
+    ],
+    "status_plain_english": "This bill was just introduced in the House of Representatives and hasn't been voted on yet."
+  },
+  {
+    "id": "119-HR-9545",
+    "original_title": "HONEST Act of 2026",
+    "plain_title": "A Law Requiring Honesty and Transparency from the Government",
+    "plain_summary": "The HONEST Act of 2026 appears aimed at requiring government officials or agencies to be more transparent and truthful in how they operate or communicate. Without an official summary, the exact details are unclear, but bills with this type of name typically set rules against deception or hidden information in government processes. Think of it like a rule that says officials have to show their work and tell the truth about what they're doing.",
+    "key_provisions": [
+      "Likely requires transparency in government actions or communications",
+      "Possibly sets penalties for dishonest or misleading conduct",
+      "May establish oversight or reporting requirements"
+    ],
+    "who_it_affects": "This bill would likely affect government agencies and officials, as well as everyday citizens who rely on honest and open government information.",
+    "topics": [
+      "Civil Rights",
+      "Other"
+    ],
+    "status_plain_english": "This bill was just introduced and sent to a House committee for review, meaning it hasn't been debated or voted on yet."
+  },
+  {
+    "id": "119-HR-9565",
+    "original_title": "Enhanced Counter-Narcotics Detection and Technology Act",
+    "plain_title": "Using Better Technology to Catch Drug Smugglers at the Border",
+    "plain_summary": "This bill aims to improve the tools and methods used by U.S. agencies to detect illegal drugs being smuggled into the country. It would likely involve upgrading scanning equipment, sensors, or other detection technology at ports of entry and borders. Think of it like giving customs officers better X-ray machines and gadgets to find hidden drugs in cars, trucks, or packages.",
+    "key_provisions": [
+      "upgrading drug detection technology at U.S. borders",
+      "enhancing counter-narcotics programs and strategies",
+      "improving coordination between agencies that fight drug smuggling"
+    ],
+    "who_it_affects": "This bill would primarily affect border security agents who get new tools, smugglers who face tougher detection, and communities impacted by illegal drug trafficking.",
+    "topics": [
+      "Criminal Justice",
+      "Technology",
+      "Immigration"
+    ],
+    "status_plain_english": "This bill was recently introduced and sent to a small group of lawmakers who focus on border security, where it will be reviewed before any further votes can happen."
+  },
+  {
+    "id": "119-HRES-1108",
+    "original_title": "Expressing support for designation of March 2026 as Music in Our Schools Month.",
+    "plain_title": "Supporting Music Education Awareness Month in Schools for 2026",
+    "plain_summary": "This bill is Congress's way of officially showing support for celebrating music education in schools during March 2026. It doesn't create new laws or spend money \u2014 it's more like a public statement saying music classes in schools matter and deserve recognition. Think of it like Congress giving music education a formal shout-out.",
+    "key_provisions": [
+      "Officially recognizes March 2026 as Music in Our Schools Month",
+      "Expresses Congressional support for music education programs",
+      "Raises awareness about the importance of music in students' lives"
+    ],
+    "who_it_affects": "This bill primarily affects students, music teachers, and schools across the country by drawing attention to the value of music education programs.",
+    "topics": [
+      "Education"
+    ],
+    "status_plain_english": "This bill was recently introduced and sent to a House committee for review, meaning it hasn't been voted on yet and is in the early stages of the process."
+  },
+  {
+    "id": "119-HR-9539",
+    "original_title": "Online Accessibility Act",
+    "plain_title": "Making Websites and Apps Accessible for People with Disabilities",
+    "plain_summary": "This bill would require websites and apps to be usable by people with disabilities, such as those who are blind, deaf, or have difficulty using a mouse. For example, videos would need captions, and websites would need to work with screen-reading software. It sets rules for businesses and organizations to follow so everyone can access online content equally.",
+    "key_provisions": [
+      "websites must meet accessibility standards for disabled users",
+      "apps and digital tools must be usable with assistive technology",
+      "businesses given a process to fix accessibility problems before facing lawsuits"
+    ],
+    "who_it_affects": "This bill would affect people with disabilities who use the internet, as well as businesses, nonprofits, and government agencies that operate websites or apps, requiring them to make their digital content more accessible.",
+    "topics": [
+      "Civil Rights",
+      "Technology"
+    ],
+    "status_plain_english": "This bill was recently introduced in the House of Representatives and has been sent to a committee for review, meaning it has not been voted on yet."
+  },
+  {
+    "id": "119-HR-9547",
+    "original_title": "Veterans and Servicemembers PTSD Emerging Treatment Review Act of 2026",
+    "plain_title": "Reviewing New PTSD Treatments for Veterans and Soldiers",
+    "plain_summary": "This bill would require the government to look into new and experimental treatments for PTSD (post-traumatic stress disorder), a mental health condition common among military members who have experienced trauma in combat or service. The goal is to make sure veterans and active-duty service members have access to the most up-to-date therapies available. Think of it like asking doctors and experts to review the latest medical research so soldiers don't miss out on treatments that could help them.",
+    "key_provisions": [
+      "Review emerging and experimental PTSD treatments",
+      "Focus specifically on treatments for veterans and active military",
+      "Evaluate whether new therapies should be made available through the military healthcare system"
+    ],
+    "who_it_affects": "This bill would primarily affect U.S. military veterans and active-duty service members who suffer from PTSD, potentially giving them access to newer mental health treatments.",
+    "topics": [
+      "Healthcare"
+    ],
+    "status_plain_english": "This bill was recently introduced and has been sent to a House committee for review, meaning it has not been voted on yet."
+  },
+  {
+    "id": "119-HR-8058",
+    "original_title": "United States Secret Service Reserve Fund Act of 2026",
+    "plain_title": "Emergency Backup Fund to Keep Secret Service Agents Paid",
+    "plain_summary": "This bill creates a special backup savings account so Secret Service agents can keep protecting the President and other important people even if the government runs out of approved spending money (a 'government shutdown'). The fund can only be used for up to 30 days during a funding gap, and any leftover money gets returned to the government by early 2027. The Secret Service must also tell Congress how the money was spent.",
+    "key_provisions": [
+      "Creates an emergency fund specifically for Secret Service protection costs during a government shutdown",
+      "Limits use of the fund to a maximum of 30 days after a funding lapse begins",
+      "Requires unused money to be returned to the Treasury by January 31, 2027",
+      "Requires the Secret Service to report to Congress on how the money was used"
+    ],
+    "who_it_affects": "This bill mainly affects Secret Service agents and employees, ensuring they continue to get paid and can keep doing their jobs protecting the President and other officials even during a government shutdown.",
+    "topics": [
+      "Economy",
+      "Foreign Policy",
+      "Other"
+    ],
+    "status_plain_english": "This bill was recently introduced and sent to a House committee for review, meaning it has not been voted on yet."
+  },
+  {
+    "id": "119-HR-9551",
+    "original_title": "Mental Health Parity Enforcement and Funding Act",
+    "plain_title": "Making Sure Mental Health Care Is Treated Like Physical Health Care",
+    "plain_summary": "This bill would require insurance companies to cover mental health treatment the same way they cover physical health treatment, and would fund efforts to enforce that rule. For example, if your insurance covers 20 therapy visits for a broken leg recovery, it should equally cover 20 therapy visits for depression. It also provides money to make sure these rules are actually followed.",
+    "key_provisions": [
+      "Enforce equal insurance coverage for mental and physical health",
+      "Provide funding to support mental health parity enforcement",
+      "Hold insurance companies accountable for unequal treatment of mental health claims"
+    ],
+    "who_it_affects": "This bill would impact people with mental health conditions or substance use disorders who rely on health insurance, making it easier and more affordable for them to get treatment.",
+    "topics": [
+      "Healthcare"
+    ],
+    "status_plain_english": "This bill was recently introduced and has been sent to a House committee for review, meaning it has not been voted on yet."
+  },
+  {
+    "id": "119-HR-9567",
+    "original_title": "Preserving Our Constitution Act of 2026",
+    "plain_title": "A Bill to Protect and Uphold the U.S. Constitution",
+    "plain_summary": "This bill is called the 'Preserving Our Constitution Act of 2026,' but because no official summary has been released yet, the exact details of what it would do are not publicly known. Based on its name, it likely involves protecting or reinforcing rules based on the U.S. Constitution, but we cannot say for certain without more information. Once lawmakers release more details, a clearer explanation will be available.",
+    "key_provisions": [
+      "Details not yet publicly available",
+      "Bill text has not been released or summarized",
+      "Likely involves constitutional protections of some kind"
+    ],
+    "who_it_affects": "It is unclear exactly who this bill would affect since no official summary or bill text has been made public yet, but it could potentially impact all Americans depending on which constitutional rights or rules it addresses.",
+    "topics": [
+      "Civil Rights",
+      "Other"
+    ],
+    "status_plain_english": "This bill was just introduced and sent to a House committee to be reviewed, meaning it has not been voted on yet and is only at the very beginning of the lawmaking process."
+  },
+  {
+    "id": "119-HR-9561",
+    "original_title": "Shandra Eisenga TB Study Act of 2026",
+    "plain_title": "A Bill to Study and Research Tuberculosis in the U.S.",
+    "plain_summary": "This bill is named after Shandra Eisenga and focuses on tuberculosis (TB), a serious lung infection that can spread through the air. It likely directs the government to fund or conduct research into TB to better understand and fight the disease. Because no official summary is available yet, the exact details of what studies or actions are required are not fully known.",
+    "key_provisions": [
+      "Fund or support tuberculosis research",
+      "Honor Shandra Eisenga through named legislation",
+      "Potentially improve TB detection or treatment efforts"
+    ],
+    "who_it_affects": "This bill would primarily affect people at risk for tuberculosis, medical researchers, and public health agencies responsible for tracking and treating infectious diseases.",
+    "topics": [
+      "Healthcare"
+    ],
+    "status_plain_english": "This bill was recently introduced in Congress and has been sent to a House committee for review, meaning it has not been voted on yet."
+  },
+  {
+    "id": "119-HR-9558",
+    "original_title": "21st Century Federal Writers\u2019 Project Act",
+    "plain_title": "Bringing Back a Government Program to Hire Writers",
+    "plain_summary": "This bill would create a modern version of the Federal Writers' Project, a 1930s government program that paid writers to create books, guides, and stories during the Great Depression. It would give government funding to writers, authors, and storytellers who need work, similar to how the original program helped thousands of people during hard economic times. Think of it like a government job program, but specifically for creative writers.",
+    "key_provisions": [
+      "Create a new federal program to hire and pay writers",
+      "Produce written works that benefit the public, like guides or histories",
+      "Model the program after the successful 1930s Federal Writers' Project"
+    ],
+    "who_it_affects": "This bill would most directly help writers, authors, poets, and other creative professionals who struggle to find steady work, by giving them government-funded job opportunities.",
+    "topics": [
+      "Economy",
+      "Education",
+      "Other"
+    ],
+    "status_plain_english": "This bill was recently introduced in the House of Representatives and has been sent to a committee to be reviewed, but has not been voted on yet."
+  },
+  {
+    "id": "119-HR-9542",
+    "original_title": "Protecting Health Care and Lowering Costs Act of 2026",
+    "plain_title": "Bill to Undo Medicaid Cuts and Work Requirements from 2026",
+    "plain_summary": "This bill would cancel several recent Medicaid changes that were passed as part of a larger law called the 'One Big Beautiful Bill Act.' Those changes included requiring some Medicaid recipients to work or volunteer to keep their health coverage, and limiting which immigrants can receive Medicaid benefits. By repealing these rules, this bill would restore Medicaid access to the people who lost it under those changes.",
+    "key_provisions": [
+      "Remove the requirement that some Medicaid recipients work or volunteer to keep coverage",
+      "Restore Medicaid access for certain immigrants who were cut off",
+      "Undo new limits on how states can fund their Medicaid programs"
+    ],
+    "who_it_affects": "This bill would affect low-income Americans who rely on Medicaid for health insurance, including working-age adults in the Medicaid expansion program and certain immigrants who were recently made ineligible for coverage.",
+    "topics": [
+      "Healthcare",
+      "Immigration"
+    ],
+    "status_plain_english": "This bill was recently introduced in the House and has been sent to two committees for review, but it has not been voted on yet."
+  },
+  {
+    "id": "119-HR-9537",
+    "original_title": "Boat Loan Interest Deduction Act of 2026",
+    "plain_title": "Tax Break for People Who Take Out Loans to Buy Boats",
+    "plain_summary": "This bill would allow people to deduct the interest they pay on boat loans from their federal taxes, similar to how homeowners can deduct mortgage interest. For example, if someone borrowed money to buy a boat and paid $2,000 in interest that year, they could use that to lower how much they owe in taxes. Essentially, the government would be giving a financial reward to people who finance boat purchases.",
+    "key_provisions": [
+      "Allow boat loan interest to be tax-deductible",
+      "Likely mirrors existing home mortgage interest deduction rules",
+      "Reduces taxable income for boat loan borrowers"
+    ],
+    "who_it_affects": "This bill would benefit people who take out loans to buy boats, particularly middle- to upper-income individuals who can afford boats and itemize their tax deductions.",
+    "topics": [
+      "Economy"
+    ],
+    "status_plain_english": "This bill was recently introduced in the House of Representatives and has been sent to the Ways and Means Committee, where it will be reviewed before any vote can happen."
+  },
+  {
+    "id": "119-HR-9487",
+    "original_title": "No Goodwill for Harming Women Act",
+    "plain_title": "No Tax Breaks for Companies That Harm Women",
+    "plain_summary": "This bill would take away special tax benefits from organizations like Goodwill if they are found to be mistreating or exploiting women. Basically, if a company or nonprofit is caught harming women \u2014 such as through unfair wages, unsafe conditions, or abuse \u2014 they could lose the financial perks they normally get from the government. It's meant to hold businesses accountable by hitting them where it hurts: their taxes.",
+    "key_provisions": [
+      "Remove tax-exempt status from organizations that harm women",
+      "Hold businesses financially accountable for mistreating women",
+      "Create consequences for companies that exploit female workers"
+    ],
+    "who_it_affects": "This bill would impact nonprofits and businesses \u2014 like thrift store chains \u2014 that may be underpaying or mistreating women workers, as well as the women who work for those organizations.",
+    "topics": [
+      "Civil Rights",
+      "Economy"
+    ],
+    "status_plain_english": "This bill was just introduced in the House and has been sent to a committee to review it \u2014 it has not been voted on yet."
+  },
+  {
+    "id": "119-HR-2388",
+    "original_title": "Lower Elwha Klallam Tribe Project Lands Restoration Act",
+    "plain_title": "Giving Land Back to the Lower Elwha Klallam Tribe in Washington",
+    "plain_summary": "This law gives about 1,083 acres of land in Washington State to the Lower Elwha Klallam Tribe, making it officially part of their reservation. When land is taken 'into trust,' the federal government holds it on behalf of the tribe, giving the tribe stronger legal protections over it. However, the tribe is not allowed to build or run a gambling casino on this land.",
+    "key_provisions": [
+      "Over 1,000 acres of Washington land transferred to tribal trust",
+      "Land becomes part of the Lower Elwha Klallam Tribe's official reservation",
+      "Gambling and gaming are banned on the transferred land"
+    ],
+    "who_it_affects": "This law directly benefits the Lower Elwha Klallam Tribe by restoring land to their control, while nearby residents and businesses may be affected by new land use rules.",
+    "topics": [
+      "Civil Rights",
+      "Other"
+    ],
+    "status_plain_english": "This bill was fully passed by Congress and signed into law, meaning it is now official U.S. law."
+  },
+  {
+    "id": "119-HR-9075",
+    "original_title": "Tax the Grift Act",
+    "plain_title": "Taxing Wealthy People Who Profit from Political Power",
+    "plain_summary": "This bill, called the 'Tax the Grift Act,' appears aimed at taxing money made by politicians or public figures who use their position or fame for personal financial gain. The word 'grift' means making money through dishonest or exploitative means. Because no official summary is available yet, the exact details of how this tax would work are not fully known.",
+    "key_provisions": [
+      "Tax on income earned through political influence or connections",
+      "Targeting financial gains seen as improper or corrupt",
+      "Details of the tax structure not yet publicly available"
+    ],
+    "who_it_affects": "This bill would likely affect politicians, former government officials, or other public figures who earn money by using their public position or fame for personal profit.",
+    "topics": [
+      "Economy",
+      "Civil Rights"
+    ],
+    "status_plain_english": "This bill was recently introduced and sent to the House Ways and Means Committee, which handles tax-related laws, but it has not been voted on yet."
+  },
+  {
+    "id": "119-HRES-1106",
+    "original_title": "Honoring the life and legacy of Rev. Jesse Louis Jackson, Sr.",
+    "plain_title": "Honoring the Life and Legacy of Rev. Jesse Jackson Sr.",
+    "plain_summary": "This bill is a formal tribute from Congress recognizing the life and contributions of Rev. Jesse Louis Jackson Sr., a major civil rights leader and activist. It honors his decades of work fighting for racial equality, economic justice, and voting rights in America. Bills like this do not create new laws but serve as an official statement of respect from the U.S. government.",
+    "key_provisions": [
+      "Formally recognizes Rev. Jesse Jackson Sr.'s contributions to civil rights",
+      "Honors his legacy as an activist, minister, and political figure",
+      "Expresses Congress's respect for his life and work"
+    ],
+    "who_it_affects": "This bill primarily affects the historical record and public recognition of Rev. Jesse Jackson Sr. and his supporters, as it is a symbolic tribute rather than a law that changes policies.",
+    "topics": [
+      "Civil Rights",
+      "Other"
+    ],
+    "status_plain_english": "This bill was recently introduced in the House and has been sent to a committee for review, but has not been voted on yet."
+  },
+  {
+    "id": "119-HRES-1627",
+    "original_title": "Reaffirming the commitment of the House of Representatives to preserve and expand pathways to citizenship.",
+    "plain_title": "Congress Promises to Protect and Create More Ways to Become a Citizen",
+    "plain_summary": "This bill is a formal statement from the House of Representatives saying they support keeping and creating more ways for people to earn U.S. citizenship. It does not create new laws on its own, but it signals where Congress stands on immigration and citizenship issues. Think of it like a team publicly committing to a goal before deciding the specific plays to make it happen.",
+    "key_provisions": [
+      "Reaffirms support for existing pathways to citizenship",
+      "Expresses commitment to expanding new citizenship opportunities",
+      "Signals the House's overall position on immigration policy"
+    ],
+    "who_it_affects": "This bill would most directly affect immigrants living in the U.S. who are seeking a path to citizenship, as it signals congressional support for protecting and expanding those opportunities.",
+    "topics": [
+      "Immigration",
+      "Civil Rights"
+    ],
+    "status_plain_english": "This bill was recently introduced and sent to the House Judiciary Committee for review, meaning it has not been voted on yet."
+  },
+  {
+    "id": "119-HRES-1626",
+    "original_title": "Supporting the designation of the week of October 18 through 24, 2026, as \"National Chemistry Week\".",
+    "plain_title": "Declaring a National Chemistry Week in October 2026",
+    "plain_summary": "This bill asks Congress to officially recognize the week of October 18\u201324, 2026, as 'National Chemistry Week.' It's a symbolic gesture meant to celebrate chemistry and raise public awareness about how important it is in everyday life, from medicines to food to technology. No new laws or funding are created \u2014 it's simply an official acknowledgment.",
+    "key_provisions": [
+      "Designates one specific week in October 2026 as National Chemistry Week",
+      "Encourages awareness and appreciation of chemistry across the country",
+      "Symbolic recognition only \u2014 no spending or policy changes required"
+    ],
+    "who_it_affects": "This bill would mainly affect students, teachers, and scientists by giving chemistry extra public attention during that week, potentially inspiring schools and organizations to hold chemistry-related events.",
+    "topics": [
+      "Education",
+      "Other"
+    ],
+    "status_plain_english": "This bill was recently introduced and has been sent to the House Committee on Science, Space, and Technology, where members will decide whether to move it forward \u2014 it has not been voted on yet."
+  },
+  {
+    "id": "119-HR-7820",
+    "original_title": "To amend the Internal Revenue Code of 1986 to modify the rules for investments in qualified opportunity funds, and for other purposes.",
+    "plain_title": "Changing the Rules for Special Tax-Break Investment Funds",
+    "plain_summary": "This bill would update tax rules for special investment funds called 'Qualified Opportunity Funds,' which are designed to encourage people to invest money in poorer communities by offering them tax breaks. For example, if someone makes a profit from selling stocks, they can put that money into one of these funds instead of paying taxes on it right away. This bill would change how those tax benefits work to potentially make them more attractive or fair.",
+    "key_provisions": [
+      "Modifying tax benefits for investing in opportunity funds",
+      "Changing rules about how long investments must be held",
+      "Updating regulations for how these funds operate"
+    ],
+    "who_it_affects": "Wealthy investors and businesses who use Qualified Opportunity Funds to reduce their taxes, as well as low-income communities that receive investment through these funds",
+    "topics": [
+      "Economy"
+    ],
+    "status_plain_english": "This bill was recently introduced in the House of Representatives and has been sent to the Ways and Means Committee, where it will be reviewed before any vote can happen."
+  },
+  {
+    "id": "119-HRES-1625",
+    "original_title": "Expressing support for a whole child approach to education and recognizing the role of parents, educators, and community members in providing a whole child approach to education for each student.",
+    "plain_title": "Supporting a Well-Rounded Education for Every Student",
+    "plain_summary": "This bill expresses Congress's support for a 'whole child' approach to education, which means schools should focus on students' physical, emotional, social, and academic needs \u2014 not just test scores. It recognizes that parents, teachers, and community members all play important roles in helping students thrive. The bill doesn't create new laws or spending, but makes an official statement about how Congress thinks education should work.",
+    "key_provisions": [
+      "Official support for educating the 'whole child,' including health and emotional wellbeing",
+      "Recognition that parents, teachers, and communities all share responsibility for student success",
+      "Encouragement of schools to meet students' full range of needs beyond just academics"
+    ],
+    "who_it_affects": "This bill would symbolically affect students, parents, teachers, and school communities across the U.S. by signaling that Congress values a broader view of student success.",
+    "topics": [
+      "Education"
+    ],
+    "status_plain_english": "This bill was recently introduced and sent to a House committee for review, meaning it hasn't been voted on yet."
+  },
+  {
+    "id": "119-HR-8915",
+    "original_title": "NO FAKES Act of 2026",
+    "plain_title": "Protecting People From Fake AI Copies of Themselves",
+    "plain_summary": "This bill makes it illegal to create or share realistic AI-generated copies of a real person's face or voice without their permission. For example, someone couldn't use AI to make a fake video of a celebrity singing a song or saying something they never said. People whose likenesses are used without permission can sue, and there's a process to get fake content taken down from the internet.",
+    "key_provisions": [
+      "People own the rights to their own voice and face, even after death",
+      "Websites must remove unauthorized AI fakes when reported",
+      "News reporting, satire, and similar speech are exempt from the rules"
+    ],
+    "who_it_affects": "This bill affects everyday people, celebrities, musicians, and actors who could be impersonated by AI, as well as tech companies and content creators who make or share AI-generated content.",
+    "topics": [
+      "Technology",
+      "Civil Rights"
+    ],
+    "status_plain_english": "This bill was recently introduced and has been sent to a House committee for review, but has not been voted on yet."
+  },
+  {
+    "id": "119-HRES-1628",
+    "original_title": "Supporting the designation of the week beginning on October 10, 2026, as \"National Wildlife Refuge Week\".",
+    "plain_title": "Declaring a Week to Celebrate National Wildlife Refuges",
+    "plain_summary": "This bill asks the U.S. government to officially recognize the week of October 10, 2026, as 'National Wildlife Refuge Week.' Wildlife refuges are protected lands set aside for animals and nature, kind of like national parks but focused on wildlife. This recognition would help raise public awareness about these important protected areas across the country.",
+    "key_provisions": [
+      "Officially names the week of October 10, 2026 as National Wildlife Refuge Week",
+      "Encourages public awareness and appreciation of wildlife refuges",
+      "Supports recognition of the importance of protecting natural habitats for animals"
+    ],
+    "who_it_affects": "This bill would affect nature lovers, wildlife conservationists, and anyone who visits or lives near one of the more than 500 national wildlife refuges across the U.S., by drawing attention to these protected natural spaces.",
     "topics": [
       "Other"
     ],
-    "status_plain_english": "This resolution has been fully approved and finalized \u2014 no further action is needed."
+    "status_plain_english": "This bill was recently introduced and has been sent to the House Committee on Natural Resources, where lawmakers will decide if it moves forward \u2014 it has not been voted on yet."
   },
   {
-    "id": "119-HR-78",
-    "original_title": "Pregnant Women Health and Safety Act of 2025",
-    "plain_title": "Rules for Doctors Who Perform Abortions and Abortion Clinics",
-    "plain_summary": "This bill creates new rules that doctors and clinics must follow when performing abortions. Doctors would need to have a special agreement with a nearby hospital so their patients can be admitted there if something goes wrong, and they must tell patients which hospital to go to for follow-up care. Abortion clinics would also need to meet the same safety and building standards as outpatient surgery centers in order to receive any federal money.",
+    "id": "119-HR-8059",
+    "original_title": "Unserialized Firearm Harm Oversight and Serialization Act of 2026",
+    "plain_title": "A Law Requiring Serial Numbers on All Guns",
+    "plain_summary": "This bill aims to crack down on untraceable firearms, often called 'ghost guns,' which are guns that have no serial numbers and are therefore nearly impossible for police to track. It would require all guns, including homemade or kit-built ones, to have official serial numbers registered with the government. For example, if a ghost gun were used in a crime, law enforcement would now have a better chance of tracing it back to its owner.",
     "key_provisions": [
-      "Doctors must have hospital admitting privileges nearby",
-      "Doctors must inform patients where to get emergency follow-up care",
-      "Abortion clinics must meet federal outpatient surgery center standards to receive federal funding"
+      "Requiring serial numbers on all firearms, including homemade guns",
+      "Creating oversight rules to reduce harm caused by unserialized weapons",
+      "Likely imposing penalties for owning or making guns without proper serial numbers"
     ],
-    "who_it_affects": "This bill would affect doctors who perform abortions, abortion clinics, and patients seeking abortions, by adding new legal requirements doctors must meet and new safety standards clinics must follow.",
+    "who_it_affects": "This bill would affect gun owners, gun makers, and law enforcement agencies \u2014 gun owners and builders would need to register their weapons, while police would gain better tools to trace guns used in crimes.",
     "topics": [
-      "Healthcare",
+      "Criminal Justice",
+      "Other"
+    ],
+    "status_plain_english": "This bill was recently introduced in Congress and has been sent to two committees for review, but it has not been voted on yet."
+  },
+  {
+    "id": "119-HR-10818",
+    "original_title": "Fire Service Workforce Stability Act of 2026",
+    "plain_title": "Helping Keep Firefighters Employed and Fire Departments Staffed",
+    "plain_summary": "This bill aims to make it easier for fire departments to hire and keep firefighters by addressing issues that cause staffing shortages. For example, it may offer financial incentives or reduce barriers that make it hard for fire departments to maintain enough workers. The goal is to make sure communities always have enough firefighters to keep people safe.",
+    "key_provisions": [
+      "financial support or tax benefits for fire departments to maintain staff",
+      "measures to help recruit new firefighters into the workforce",
+      "protections to help retain experienced firefighters already on the job"
+    ],
+    "who_it_affects": "This bill would impact firefighters, fire departments, and the communities they serve by working to ensure fire services remain reliable and fully staffed.",
+    "topics": [
+      "Economy",
+      "Other"
+    ],
+    "status_plain_english": "This bill was recently introduced and has been sent to the House Ways and Means Committee, where lawmakers will review it before deciding whether to move it forward \u2014 it has not been voted on yet."
+  },
+  {
+    "id": "119-HR-10827",
+    "original_title": "Protection of Syrian Religious and Ethnic Minorities Act",
+    "plain_title": "Protecting Religious and Ethnic Minorities in Syria",
+    "plain_summary": "This bill aims to protect people in Syria who belong to minority religious or ethnic groups, such as Christians, Yazidis, and Kurds, who have faced violence and persecution. It would likely set up ways for the U.S. to help these groups, possibly through aid, refugee protections, or sanctions against those harming them. Because no official summary is available yet, the exact details of how it would do this are still unclear.",
+    "key_provisions": [
+      "Protection measures for Syrian minority groups facing persecution",
+      "Possible refugee or immigration relief for at-risk Syrians",
+      "Potential financial or foreign policy actions to support minorities"
+    ],
+    "who_it_affects": "This bill would most directly impact Syrian religious and ethnic minorities living in Syria or seeking refuge, and could also affect U.S. agencies that handle foreign aid, immigration, and international sanctions.",
+    "topics": [
+      "Foreign Policy",
+      "Immigration",
       "Civil Rights"
     ],
-    "status_plain_english": "This bill was recently introduced in Congress and has been sent to two committees to be reviewed, but has not been voted on yet."
+    "status_plain_english": "This bill was recently introduced in Congress and has been sent to three different committees to review it, but it has not been voted on yet."
   }
 ]

@@ -3,10 +3,9 @@ test_pipeline.py
 Pulls real bills and runs them through the summarization pipeline,
 saving results to a JSON file so you can review them for accuracy.
 """
-from fetch_bills import fetch_recent_bills, get_summary_text
 import json
 import time
-from fetch_bills import fetch_recent_bills
+from fetch_bills import fetch_recent_bills, get_summary_text
 from summarize_bill import summarize_bill
 
 NUMBER_OF_BILLS_TO_TEST = 10

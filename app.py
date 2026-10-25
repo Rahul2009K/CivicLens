@@ -15,6 +15,11 @@ CORS(app)
 CACHE_FILE = "bills_cache.json"
 
 
+def is_placeholder(bill):
+    """Bill numbers reserved for House leadership have no real content."""
+    return (bill.get("original_title") or "").strip().lower().startswith("reserved for")
+
+
 @app.route("/bills", methods=["GET"])
 def get_bills():
     """Return cached, pre-summarized bills -- instant, no Claude calls here."""
@@ -23,10 +28,10 @@ def get_bills():
             "error": "No cached data yet. Run 'python generate_cache.py' first."
         }), 404
 
-    with open(CACHE_FILE, "r") as f:
+    with open(CACHE_FILE, "r", encoding="utf-8") as f:
         bills = json.load(f)
 
-    return jsonify(bills)
+    return jsonify([b for b in bills if not is_placeholder(b)])
 
 
 @app.route("/health", methods=["GET"])
@@ -35,6 +40,5 @@ def health_check():
 
 
 if __name__ == "__main__":
-    import os
-port = int(os.environ.get("PORT", 5000))
-app.run(host="0.0.0.0", port=port)
+    port = int(os.environ.get("PORT", 5000))
+    app.run(host="0.0.0.0", port=port)

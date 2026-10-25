@@ -21,6 +21,9 @@ def generate_cache():
 
     results = []
     for i, bill in enumerate(bills, start=1):
+        if (bill.get("title") or "").lower().startswith("reserved for"):
+            print(f"Skipping placeholder bill {i}: {bill.get('title')}")
+            continue
         print(f"Processing bill {i}/{len(bills)}: {bill.get('title', '')[:50]}")
         official_summary = get_summary_text(bill)
         latest_action = (bill.get("latestAction") or {}).get("text", "")
@@ -36,7 +39,7 @@ def generate_cache():
         else:
             print(f"  Bill {i} failed to summarize -- skipping")
 
-    with open(CACHE_FILE, "w") as f:
+    with open(CACHE_FILE, "w", encoding="utf-8") as f:
         json.dump(results, f, indent=2)
 
     print(f"\nSaved {len(results)} summarized bills to {CACHE_FILE}")

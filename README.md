@@ -11,6 +11,8 @@ CivicLens translates U.S. congressional bills into plain English using Claude AI
 ## Project structure
 
 ```
+app.py              — Flask API that serves cached summaries (GET /bills, GET /health)
+generate_cache.py   — fetches + summarizes bills, writes bills_cache.json
 fetch_bills.py      — pulls bills from Congress.gov
 summarize_bill.py   — sends bill data to Claude, returns plain-English JSON
 test_pipeline.py    — end-to-end test of the full pipeline
@@ -24,7 +26,7 @@ test_results.json   — sample output from a pipeline test run
    ```bash
    python -m venv venv
    source venv/bin/activate   # Windows: venv\Scripts\activate
-   pip install anthropic requests python-dotenv
+   pip install -r requirements.txt
    ```
 
 2. **Create a `.env` file** in the project root with your API keys:
@@ -38,6 +40,18 @@ test_results.json   — sample output from a pipeline test run
    - Get an Anthropic API key at [console.anthropic.com](https://console.anthropic.com/)
 
 ## Usage
+
+**Refresh the bill cache (calls Congress.gov + Claude):**
+```bash
+python generate_cache.py
+```
+
+**Run the API server locally (http://localhost:5000/bills):**
+```bash
+python app.py
+```
+
+Deployed on Railway via the `Procfile`; Railway sets `PORT` automatically.
 
 **Fetch and print recent bills:**
 ```bash
