@@ -3,7 +3,10 @@ fetch_bills.py
 Pulls the most recent bills from Congress.gov and prints their raw data.
 """
 
+import html
 import os
+import re
+
 import requests
 from dotenv import load_dotenv
 
@@ -79,3 +82,28 @@ if __name__ == "__main__":
         print(f"   Congress: {bill.get('congress')}, Type: {bill.get('type')}, Number: {bill.get('number')}")
         print(f"   Latest action: {bill.get('latestAction', {}).get('text', 'N/A')}")
         print(f"   Summary: {get_summary_text(bill)}")
+
+MAX_TEXT_CHARS = 40000  # roughly 10k tokens; very long bills are trimmed with a note
+
+
+def get_bill_text(bill):
+    """Plain text of the latest published version of a bill, or "" if none."""
+    congress = bill.get("congress")
+    bill_type = bill.get("type", "").lower()
+    number = bill.get("number")
+    try:
+        url = f"{BASE_URL}/bill/{congress}/{bill_type}/{number}/text"
+        versions = requests.get(url, params={"api_key": API_KEY, "format": "json"}, timeout=30).json().get("textVersions", [])
+        formats = [f for v in versions for f in v.get("formats", []) if f.get("type") == "Formatted Text"]
+        if not formats:
+            return ""
+        raw = requests.get(formats[0]["url"], timeout=30).text
+    except Exception as e:
+        print(f"   Could not fetch text for bill {number}: {e}")
+        return ""
+    text = html.unescape(re.sub(r"<[^>]+>", " ", raw))
+    text = re.sub(r"[ \t]+", " ", text)
+    text = re.sub(r"\n\s*\n+", "\n\n", text).strip()
+    if len(text) > MAX_TEXT_CHARS:
+        text = text[:MAX_TEXT_CHARS] + "\n\n[Bill text trimmed for length.]"
+    return text
