@@ -1,6 +1,6 @@
-# CivicLens (data pipeline + API)
+# Billshelf (data pipeline + API)
 
-CivicLens explains the 100 newest bills in the U.S. Congress in plain English, for high school students and anyone without a civics or legal background.
+Billshelf explains the 100 newest bills in the U.S. Congress in plain English, for high school students and anyone without a civics or legal background.
 
 **Live site:** https://civiclens-frontend-gilt.vercel.app · **Website code:** [civiclens-frontend](https://github.com/Rahul2009K/civiclens-frontend)
 
