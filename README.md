@@ -2,7 +2,7 @@
 
 Billshelf explains the 100 newest bills in the U.S. Congress in plain English, for high school students and anyone without a civics or legal background.
 
-**Live site:** https://civiclens-frontend-gilt.vercel.app · **Website code:** [civiclens-frontend](https://github.com/Rahul2009K/civiclens-frontend)
+**Live site:** https://billshelf.vercel.app · **Website code:** [civiclens-frontend](https://github.com/Rahul2009K/civiclens-frontend)
 
 This repo fetches bills from Congress.gov, has Claude rewrite each one in plain English, and serves the results to the website.
 
