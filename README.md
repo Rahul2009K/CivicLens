@@ -51,7 +51,7 @@ python generate_cache.py
 python app.py
 ```
 
-Deployed on Railway via the `Procfile`; Railway sets `PORT` automatically.
+Deployed on Render's free tier via `render.yaml` (New → Blueprint → this repo). The free tier sleeps when idle, so the first request after a while can take up to a minute.
 
 **Fetch and print recent bills:**
 ```bash
